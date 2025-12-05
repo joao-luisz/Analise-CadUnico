@@ -1,0 +1,1001 @@
+family_id,bairro,rua,localidade_tipo,n_membros,renda_total,renda_per_capita,recebe_bolsa_familia,recebe_bpc,tem_deficiencia,idade_responsavel,escolaridade_responsavel,tipo_moradia,agua,esgoto,sem_registro,nis_fake,lat,lon
+FAM00001,Bela Vista,Rua Francisco Ferreira Fonteneles,urbana,5,181,36.2,0,1,1,65,Fundamental incompleto,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100001,-3.621178,-39.503291
+FAM00002,Angelim,Rua Nova - Angelim,urbana,4,800,200.0,0,1,1,65,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100002,-3.623985,-39.50121
+FAM00003,Alto da Colina,Rua do Comércio,urbana,7,287,41.0,0,1,1,65,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100003,-3.622717,-39.505643
+FAM00004,Bela Vista,Rua do Cruzeiro - Bela Vista,urbana,7,600,85.71,1,1,1,65,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100004,-3.620371,-39.504588
+FAM00005,Casinhas,Rua Principal,urbana,2,800,400.0,0,0,1,65,Médio completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100005,-3.627926,-39.501086
+FAM00006,Prata dos Galdinos,Travessa do Sol,rural,6,194,32.33,1,1,1,65,Médio completo,Palha,Poço,Fossa séptica,0,NIS100006,-3.621539,-39.510962
+FAM00007,Centro,Rua Francisco Ferreira Fonteneles - Centro,urbana,6,305,50.83,0,1,1,65,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100007,-3.622324,-39.504113
+FAM00008,Aguaí,Rua Nova - Aguaí,rural,5,373,74.6,1,1,1,65,Fundamental incompleto,Taipa revestida,Poço,Vala a céu aberto,0,NIS100008,-3.627154,-39.505677
+FAM00009,Belmonte,Rua da Igreja - Belmonte,rural,4,211,52.75,1,0,0,61,Superior completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100009,-3.631106,-39.508141
+FAM00010,Lajedos,Rua Francisco Ferreira Fonteneles - Lajedos,urbana,8,983,122.88,1,0,0,25,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100010,-3.626769,-39.504391
+FAM00011,Casinhas,Rua Nova - Casinhas,urbana,5,497,99.4,1,0,0,36,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100011,-3.626006,-39.50112
+FAM00012,São João,Rua do Cruzeiro - São João,rural,4,368,92.0,0,0,0,39,Médio completo,Alvenaria com revestimento,Cisterna,Fossa rudimentar,0,NIS100012,-3.618359,-39.508648
+FAM00013,Casinhas,Travessa do Sol,urbana,4,577,144.25,0,0,0,24,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100013,-3.625997,-39.497993
+FAM00014,Alto da Colina,Rua José de Alencar - Alto da Colina,urbana,3,1087,362.33,0,0,0,38,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,1,NIS100014,-3.623997,-39.503201
+FAM00015,Prata dos Galdinos,Rua da Escola,rural,6,441,73.5,1,0,0,52,Superior completo,Alvenaria com revestimento,Cisterna,Fossa rudimentar,0,NIS100015,-3.621453,-39.510278
+FAM00016,Centro,Rua Nossa Senhora - Centro,urbana,4,1276,319.0,0,0,0,42,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100016,-3.621279,-39.500773
+FAM00017,Sítio Pau Alto,Rua do Comércio,rural,5,607,121.4,1,0,0,44,Fundamental incompleto,Taipa não revestida,Poço,Fossa séptica,0,NIS100017,-3.617754,-39.504377
+FAM00018,Novo Angelim,Avenida Central - Novo Angelim,urbana,5,808,161.6,0,0,0,24,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100018,-3.625032,-39.502541
+FAM00019,Angelim,Rua do Comércio - Angelim,urbana,1,246,246.0,1,0,0,65,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100019,-3.620712,-39.500553
+FAM00020,Alto da Colina,Rua Nossa Senhora - Alto da Colina,urbana,3,398,132.67,1,0,0,68,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100020,-3.621485,-39.505119
+FAM00021,Volta,Rua Principal,urbana,5,411,82.2,1,0,0,42,Fundamental completo,Madeira,Rede geral,Rede coletora,0,NIS100021,-3.623132,-39.500059
+FAM00022,Bela Vista,Travessa do Sol - Bela Vista,urbana,6,281,46.83,1,0,0,37,Médio completo,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100022,-3.620736,-39.502708
+FAM00023,Bela Vista,Avenida Central,urbana,3,1993,664.33,0,0,0,35,Médio completo,Alvenaria com revestimento,Cisterna,Rede coletora,1,NIS100023,-3.620391,-39.502955
+FAM00024,Sobradinho,Avenida Central - Sobradinho,rural,4,98,24.5,1,1,1,35,Fundamental incompleto,Palha,Cisterna,Fossa séptica,0,NIS100024,-3.618772,-39.504304
+FAM00025,Lajedos,Rua da Escola - Lajedos,urbana,2,856,428.0,1,0,0,61,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100025,-3.627226,-39.505233
+FAM00026,Sítio Pau Alto,Rua Francisco Ferreira Fonteneles,rural,8,271,33.88,1,1,1,61,Fundamental incompleto,Palha,Poço,Fossa rudimentar,0,NIS100026,-3.61696,-39.506293
+FAM00027,Serra do Sítio,Rua José de Alencar - Serra do Sítio,rural,7,134,19.14,0,0,1,30,Médio completo,Taipa revestida,Rede geral,Fossa rudimentar,0,NIS100027,-3.621182,-39.507754
+FAM00028,Pedra Furada,Rua Principal - Pedra Furada,rural,4,334,83.5,0,0,0,68,Fundamental completo,Taipa não revestida,Rede geral,Fossa rudimentar,0,NIS100028,-3.623947,-39.509775
+FAM00029,Novo Angelim,Rua Principal - Novo Angelim,urbana,4,88,22.0,0,0,0,47,Médio completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100029,-3.62319,-39.503862
+FAM00030,Pedra Furada,Rua da Escola - Pedra Furada,rural,4,670,167.5,0,0,1,40,Médio completo,Palha,Poço,Fossa rudimentar,0,NIS100030,-3.623102,-39.509128
+FAM00031,Sítio Pirapora,Rua do Cruzeiro,rural,6,372,62.0,1,0,0,19,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Fossa rudimentar,0,NIS100031,-3.619802,-39.505394
+FAM00032,Lajedos,Rua do Mercado,urbana,4,1241,310.25,1,0,0,44,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,1,NIS100032,-3.62472,-39.505584
+FAM00033,Volta,Rua São Pedro - Volta,urbana,6,590,98.33,0,0,0,18,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100033,-3.623029,-39.499469
+FAM00034,Alto da Colina,Rua 7 de Setembro - Alto da Colina,urbana,4,441,110.25,1,0,0,40,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100034,-3.623912,-39.503179
+FAM00035,Bela Vista,Rua Francisco Ferreira Fonteneles - Bela Vista,urbana,2,237,118.5,1,0,0,34,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100035,-3.621415,-39.502611
+FAM00036,Santa Úrsula,Rua Nova,rural,2,1060,530.0,0,0,0,33,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100036,-3.619328,-39.508602
+FAM00037,Angelim,Rua Principal - Angelim,urbana,2,1942,971.0,0,0,0,18,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100037,-3.621147,-39.500704
+FAM00038,Sobradinho,Rua Nova - Sobradinho,rural,2,4175,2087.5,0,0,0,56,Médio completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100038,-3.621146,-39.503593
+FAM00039,Bela Vista,Travessa do Sol - Bela Vista,urbana,3,349,116.33,0,0,0,36,Fundamental incompleto,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100039,-3.621292,-39.502069
+FAM00040,Angelim,Rua José de Alencar,urbana,6,3099,516.5,0,0,0,64,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100040,-3.622195,-39.503247
+FAM00041,Volta,Rua do Comércio - Volta,urbana,4,431,107.75,1,0,0,36,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100041,-3.625884,-39.500233
+FAM00042,Volta,Avenida Central,urbana,6,574,95.67,0,0,0,43,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100042,-3.623018,-39.499857
+FAM00043,Barreiros,Rua do Cruzeiro - Barreiros,rural,3,386,128.67,1,0,0,55,Médio completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100043,-3.628348,-39.50926
+FAM00044,Bom Jesus,Rua 7 de Setembro,rural,2,572,286.0,0,0,0,49,Fundamental incompleto,Taipa revestida,Cisterna,Fossa séptica,0,NIS100044,-3.626075,-39.508585
+FAM00045,Bela Vista,Rua São Pedro - Bela Vista,urbana,5,360,72.0,1,0,0,53,Médio completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100045,-3.619845,-39.501469
+FAM00046,Santa Maria,Rua do Comércio - Santa Maria,rural,3,190,63.33,1,0,0,34,Superior incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100046,-3.621807,-39.507584
+FAM00047,Pedra Furada,Rua 7 de Setembro,rural,5,617,123.4,1,0,0,26,Fundamental completo,Taipa não revestida,Cisterna,Vala a céu aberto,0,NIS100047,-3.623052,-39.508081
+FAM00048,Alto da Colina,Rua do Comércio - Alto da Colina,urbana,2,1292,646.0,0,0,0,33,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100048,-3.623185,-39.505187
+FAM00049,Alto São João,Travessa do Sol - Alto São João,urbana,4,1016,254.0,0,0,0,39,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100049,-3.622714,-39.501445
+FAM00050,Angelim,Rua do Mercado,urbana,3,444,148.0,1,0,0,44,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100050,-3.621588,-39.503659
+FAM00051,Casinhas,Rua Nova - Casinhas,urbana,6,431,71.83,1,0,0,49,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100051,-3.626098,-39.501019
+FAM00052,Volta,Rua do Estádio - Volta,urbana,5,773,154.6,1,0,0,27,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100052,-3.62282,-39.499746
+FAM00053,Centro,Rua Nova - Centro,urbana,3,110,36.67,1,0,0,66,Médio completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100053,-3.623876,-39.50293
+FAM00054,Centro,Rua Nossa Senhora,urbana,5,1182,236.4,1,0,0,41,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100054,-3.621776,-39.504279
+FAM00055,Volta,Travessa do Sol - Volta,urbana,1,114,114.0,0,0,1,49,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100055,-3.621747,-39.498422
+FAM00056,Angelim,Rua Principal,urbana,4,696,174.0,1,0,0,18,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100056,-3.62381,-39.500532
+FAM00057,Alto da Colina,Rua do Mercado - Alto da Colina,urbana,5,537,107.4,1,0,0,44,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100057,-3.622961,-39.501913
+FAM00058,Prata dos Galdinos,Rua do Mercado - Prata dos Galdinos,rural,3,773,257.67,1,0,0,49,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100058,-3.621449,-39.511999
+FAM00059,São João,Avenida Central,rural,5,1568,313.6,1,0,0,56,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100059,-3.617408,-39.510157
+FAM00060,Barreiros,Rua do Cruzeiro - Barreiros,rural,5,737,147.4,0,0,0,39,Superior completo,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100060,-3.629612,-39.507358
+FAM00061,Alto São João,Travessa do Sol,urbana,3,390,130.0,1,0,0,43,Fundamental incompleto,Alvenaria com revestimento,Poço,Rede coletora,1,NIS100061,-3.625205,-39.500439
+FAM00062,Santa Maria,Rua José de Alencar,rural,8,1482,185.25,0,0,0,32,Fundamental completo,Taipa não revestida,Cisterna,Vala a céu aberto,0,NIS100062,-3.622336,-39.508591
+FAM00063,Itamaraty,Rua da Escola - Itamaraty,urbana,3,86,28.67,0,0,0,25,Fundamental completo,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100063,-3.621324,-39.500277
+FAM00064,Baixa Grande,Rua Nova - Baixa Grande,rural,7,1409,201.29,0,1,0,64,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100064,-3.629663,-39.50558
+FAM00065,Serra do Sítio,Rua da Igreja - Serra do Sítio,rural,5,261,52.2,1,0,0,32,Fundamental completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100065,-3.620994,-39.506646
+FAM00066,Pedra Furada,Rua da Escola - Pedra Furada,rural,2,102,51.0,1,0,0,24,Fundamental incompleto,Palha,Poço,Fossa rudimentar,0,NIS100066,-3.620581,-39.509706
+FAM00067,Serra do Sítio,Rua São Pedro - Serra do Sítio,rural,5,113,22.6,0,0,0,48,Médio completo,Palha,Cisterna,Vala a céu aberto,0,NIS100067,-3.619898,-39.506332
+FAM00068,Novo Angelim,Rua do Mercado,urbana,6,353,58.83,1,0,1,30,Médio completo,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100068,-3.62573,-39.502647
+FAM00069,Prata dos Galdinos,Travessa do Sol - Prata dos Galdinos,rural,5,626,125.2,0,0,0,36,Fundamental completo,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100069,-3.620553,-39.51169
+FAM00070,Volta,Rua Nova - Volta,urbana,3,320,106.67,1,0,0,43,Médio completo,Outra,Cisterna,Fossa séptica,0,NIS100070,-3.621847,-39.499502
+FAM00071,Baixa Grande,Rua da Igreja - Baixa Grande,rural,3,163,54.33,1,0,0,39,Médio completo,Palha,Poço,Fossa rudimentar,0,NIS100071,-3.630434,-39.505109
+FAM00072,Alto São João,Rua Principal,urbana,3,1106,368.67,0,0,0,39,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100072,-3.624945,-39.501048
+FAM00073,Sítio Oiticica,Rua Francisco Ferreira Fonteneles,rural,5,211,42.2,1,0,0,46,Não sabe ler/escrever,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100073,-3.619264,-39.507986
+FAM00074,Bela Vista,Rua do Comércio - Bela Vista,urbana,3,278,92.67,1,0,0,55,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100074,-3.621682,-39.502873
+FAM00075,Itamaraty,Rua Nossa Senhora,urbana,2,4280,2140.0,0,0,0,41,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100075,-3.621202,-39.50094
+FAM00076,Novo Angelim,Rua São Pedro,urbana,5,316,63.2,1,0,1,35,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100076,-3.623475,-39.502758
+FAM00077,Bela Vista,Travessa do Sol,urbana,2,546,273.0,1,0,0,55,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100077,-3.621035,-39.502401
+FAM00078,Guaribuna,Rua São Pedro - Guaribuna,rural,2,860,430.0,0,0,0,57,Fundamental completo,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100078,-3.626637,-39.512568
+FAM00079,Mundaú,Rua da Igreja,rural,5,92,18.4,0,0,0,29,Fundamental incompleto,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100079,-3.62474,-39.508486
+FAM00080,Angelim,Rua da Igreja - Angelim,urbana,6,796,132.67,1,0,0,24,Fundamental completo,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100080,-3.62286,-39.500413
+FAM00081,Centro,Rua do Cruzeiro,urbana,4,66,16.5,1,0,0,45,Fundamental completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100081,-3.621841,-39.504149
+FAM00082,Bela Vista,Rua do Cruzeiro - Bela Vista,urbana,2,75,37.5,1,0,0,45,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100082,-3.621037,-39.500748
+FAM00083,Pedra Furada,Rua Nossa Senhora,rural,4,375,93.75,1,0,1,47,Fundamental incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100083,-3.623029,-39.511173
+FAM00084,Angelim,Rua Nossa Senhora - Angelim,urbana,8,559,69.88,1,0,0,48,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100084,-3.622221,-39.502639
+FAM00085,Santa Maria,Avenida Central - Santa Maria,rural,5,1294,258.8,0,0,0,39,Fundamental incompleto,Palha,Cisterna,Vala a céu aberto,0,NIS100085,-3.62081,-39.507122
+FAM00086,Bela Vista,Rua da Escola,urbana,3,246,82.0,0,0,0,46,Fundamental completo,Outra,Rede geral,Vala a céu aberto,0,NIS100086,-3.620959,-39.501861
+FAM00087,Novo Angelim,Rua do Comércio,urbana,5,943,188.6,0,0,0,50,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100087,-3.625361,-39.505547
+FAM00088,Alto São João,Rua Francisco Ferreira Fonteneles - Alto São João,urbana,3,574,191.33,0,0,0,32,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100088,-3.626677,-39.50315
+FAM00089,Angelim,Rua da Igreja - Angelim,urbana,4,909,227.25,0,0,0,50,Médio completo,Outra,Rede geral,Rede coletora,0,NIS100089,-3.623588,-39.501866
+FAM00090,Itamaraty,Rua da Igreja - Itamaraty,urbana,3,1181,393.67,1,0,0,33,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100090,-3.620095,-39.501993
+FAM00091,Apertada Hora,Rua do Estádio - Apertada Hora,rural,4,1733,433.25,0,0,0,40,Fundamental completo,Taipa revestida,Cisterna,Vala a céu aberto,0,NIS100091,-3.630297,-39.502861
+FAM00092,Santa Maria,Rua da Escola,rural,3,965,321.67,0,0,0,32,Fundamental incompleto,Palha,Poço,Fossa séptica,0,NIS100092,-3.621282,-39.507896
+FAM00093,Casinhas,Rua São Pedro - Casinhas,urbana,1,1483,1483.0,0,0,0,64,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100093,-3.625142,-39.500443
+FAM00094,Barreiros,Rua do Comércio,rural,2,647,323.5,0,0,0,34,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100094,-3.629143,-39.507819
+FAM00095,Volta,Rua Nossa Senhora,urbana,3,1246,415.33,0,0,0,43,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100095,-3.624118,-39.499492
+FAM00096,Itamaraty,Rua da Igreja,urbana,2,202,101.0,0,0,0,50,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100096,-3.621293,-39.500976
+FAM00097,Sítio Oiticica,Rua do Mercado,rural,4,527,131.75,1,0,0,59,Fundamental completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100097,-3.62001,-39.507886
+FAM00098,Casinhas,Rua do Mercado,urbana,4,230,57.5,0,0,0,19,Fundamental completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100098,-3.626738,-39.499989
+FAM00099,Centro,Rua São Pedro,urbana,6,822,137.0,0,0,0,50,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100099,-3.621819,-39.503808
+FAM00100,Carrapato,Rua José de Alencar,rural,2,51,25.5,1,0,0,42,Fundamental incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100100,-3.629065,-39.513355
+FAM00101,Centro,Rua Principal - Centro,urbana,4,801,200.25,0,1,1,24,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100101,-3.622407,-39.504929
+FAM00102,Ferrão,Rua do Mercado - Ferrão,rural,4,124,31.0,1,0,0,54,Fundamental completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100102,-3.625403,-39.508086
+FAM00103,Sítio Pirapora,Rua Nossa Senhora - Sítio Pirapora,rural,4,346,86.5,1,0,1,41,Fundamental incompleto,Palha,Poço,Fossa rudimentar,0,NIS100103,-3.621368,-39.50493
+FAM00104,Angelim,Rua Nova - Angelim,urbana,4,168,42.0,0,0,0,41,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100104,-3.623503,-39.500546
+FAM00105,Água Fria,Rua Nova - Água Fria,rural,3,455,151.67,1,0,1,54,Fundamental completo,Palha,Cisterna,Fossa séptica,0,NIS100105,-3.627587,-39.501773
+FAM00106,Lajedos,Rua Principal - Lajedos,urbana,5,239,47.8,1,0,0,60,Fundamental incompleto,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100106,-3.624782,-39.504582
+FAM00107,Aguaí,Rua 7 de Setembro - Aguaí,rural,3,635,211.67,0,0,0,29,Médio completo,Palha,Poço,Fossa rudimentar,0,NIS100107,-3.625282,-39.504367
+FAM00108,Ouro,Rua do Estádio,rural,2,813,406.5,1,0,0,39,Fundamental incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100108,-3.623666,-39.510568
+FAM00109,Bela Vista,Rua Nossa Senhora,urbana,6,1047,174.5,1,0,0,30,Fundamental completo,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100109,-3.620315,-39.503476
+FAM00110,Pedra Furada,Rua Nossa Senhora - Pedra Furada,rural,4,769,192.25,0,0,0,52,Fundamental completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100110,-3.623246,-39.510399
+FAM00111,Itamaraty,Rua do Comércio - Itamaraty,urbana,5,1571,314.2,0,0,0,36,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,1,NIS100111,-3.620986,-39.500011
+FAM00112,Santa Úrsula,Rua José de Alencar - Santa Úrsula,rural,3,327,109.0,1,0,0,30,Médio completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100112,-3.62143,-39.507651
+FAM00113,Pedra Furada,Rua do Comércio - Pedra Furada,rural,4,3615,903.75,0,0,0,37,Não sabe ler/escrever,Taipa não revestida,Poço,Fossa séptica,0,NIS100113,-3.623926,-39.509179
+FAM00114,Angelim,Rua da Igreja - Angelim,urbana,5,1156,231.2,1,0,0,51,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100114,-3.623858,-39.499732
+FAM00115,Sobradinho,Rua São Pedro,rural,2,1384,692.0,1,0,0,37,Fundamental completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100115,-3.619607,-39.505925
+FAM00116,Novo Angelim,Rua Nova,urbana,3,1248,416.0,1,0,0,39,Médio completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100116,-3.622709,-39.50385
+FAM00117,Pedra Furada,Rua Nossa Senhora - Pedra Furada,rural,4,703,175.75,1,0,0,33,Fundamental completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100117,-3.622194,-39.509978
+FAM00118,Alto da Colina,Rua 7 de Setembro,urbana,2,307,153.5,0,0,0,41,Não sabe ler/escrever,Madeira,Rede geral,Rede coletora,0,NIS100118,-3.622859,-39.503168
+FAM00119,Canto Escuro,Travessa do Sol - Canto Escuro,rural,4,1092,273.0,0,0,0,29,Superior completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100119,-3.629001,-39.510139
+FAM00120,Santa Úrsula,Rua do Cruzeiro - Santa Úrsula,rural,4,378,94.5,0,0,0,44,Médio completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100120,-3.622268,-39.509923
+FAM00121,Ferrão,Rua José de Alencar - Ferrão,rural,2,1733,866.5,0,0,0,42,Fundamental completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100121,-3.625621,-39.509098
+FAM00122,Paraíso,Rua José de Alencar,rural,3,656,218.67,0,0,0,41,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100122,-3.623154,-39.51208
+FAM00123,Apertada Hora,Rua Nova,rural,3,95,31.67,1,0,0,44,Médio completo,Taipa não revestida,Cisterna,Fossa séptica,0,NIS100123,-3.629537,-39.503581
+FAM00124,Belmonte,Rua Principal,rural,3,301,100.33,0,0,1,34,Médio completo,Palha,Poço,Fossa rudimentar,0,NIS100124,-3.630993,-39.50799
+FAM00125,Carrapato,Rua Francisco Ferreira Fonteneles,rural,4,169,42.25,0,0,1,38,Não sabe ler/escrever,Taipa não revestida,Poço,Fossa séptica,0,NIS100125,-3.628961,-39.510062
+FAM00126,Prata dos Galdinos,Rua da Igreja - Prata dos Galdinos,rural,4,425,106.25,0,0,0,60,Fundamental incompleto,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100126,-3.622018,-39.511586
+FAM00127,Alto da Colina,Rua São Pedro,urbana,5,126,25.2,1,0,0,59,Médio completo,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100127,-3.622643,-39.503942
+FAM00128,Alto da Colina,Rua Francisco Ferreira Fonteneles,urbana,3,1700,566.67,0,0,0,56,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100128,-3.622291,-39.502574
+FAM00129,Bela Vista,Rua 7 de Setembro,urbana,5,207,41.4,1,0,0,44,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100129,-3.620383,-39.502634
+FAM00130,Centro,Rua Nova,urbana,3,588,196.0,0,0,0,46,Médio completo,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100130,-3.621427,-39.502788
+FAM00131,Bela Vista,Rua do Mercado - Bela Vista,urbana,1,90,90.0,0,0,0,37,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100131,-3.620819,-39.502994
+FAM00132,Água Fria,Rua do Estádio - Água Fria,rural,4,255,63.75,0,0,0,42,Médio completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100132,-3.632303,-39.501232
+FAM00133,Volta,Rua Principal - Volta,urbana,5,1094,218.8,0,0,0,45,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100133,-3.621242,-39.499612
+FAM00134,Paraíso,Rua Nova,rural,5,3873,774.6,0,0,0,43,Não sabe ler/escrever,Taipa revestida,Poço,Fossa rudimentar,0,NIS100134,-3.624134,-39.513312
+FAM00135,Bom Jesus,Rua do Cruzeiro - Bom Jesus,rural,3,410,136.67,1,0,0,42,Não sabe ler/escrever,Taipa revestida,Poço,Fossa rudimentar,0,NIS100135,-3.627065,-39.507058
+FAM00136,Alto São João,Rua Nova,urbana,2,541,270.5,0,0,0,18,Médio completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100136,-3.62502,-39.500996
+FAM00137,Pedra Furada,Rua do Comércio - Pedra Furada,rural,5,561,112.2,1,0,0,33,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100137,-3.623332,-39.509825
+FAM00138,Serra do Sítio,Rua do Mercado,rural,5,1420,284.0,1,0,0,18,Não sabe ler/escrever,Palha,Rede geral,Fossa séptica,0,NIS100138,-3.622424,-39.506872
+FAM00139,Lajedos,Rua São Pedro - Lajedos,urbana,3,5488,1829.33,0,0,0,35,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100139,-3.626972,-39.502906
+FAM00140,Alto São João,Rua Nova,urbana,4,793,198.25,0,0,0,48,Médio completo,Madeira,Rede geral,Rede coletora,0,NIS100140,-3.626379,-39.501915
+FAM00141,Alto São João,Rua Nossa Senhora - Alto São João,urbana,6,207,34.5,1,0,0,35,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100141,-3.626522,-39.502097
+FAM00142,Jenipapo,Rua Nova - Jenipapo,rural,5,473,94.6,1,0,1,25,Não sabe ler/escrever,Taipa não revestida,Rede geral,Fossa rudimentar,1,NIS100142,-3.626422,-39.511516
+FAM00143,Bela Vista,Rua Principal,urbana,2,453,226.5,0,0,0,45,Médio completo,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100143,-3.621909,-39.502682
+FAM00144,Novo Angelim,Avenida Central - Novo Angelim,urbana,5,405,81.0,0,0,0,59,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100144,-3.625443,-39.503154
+FAM00145,Novo Angelim,Travessa do Sol,urbana,4,641,160.25,1,0,0,54,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100145,-3.624116,-39.502925
+FAM00146,Alto São João,Rua do Estádio,urbana,2,356,178.0,0,0,0,45,Médio completo,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100146,-3.627061,-39.500243
+FAM00147,Centro,Rua do Cruzeiro - Centro,urbana,5,612,122.4,0,0,0,18,Fundamental completo,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100147,-3.621991,-39.504777
+FAM00148,Santa Maria,Rua do Cruzeiro - Santa Maria,rural,6,436,72.67,0,0,0,56,Fundamental completo,Palha,Rede geral,Fossa rudimentar,0,NIS100148,-3.622888,-39.509689
+FAM00149,Apertada Hora,Rua Francisco Ferreira Fonteneles - Apertada Hora,rural,3,304,101.33,0,0,0,53,Não sabe ler/escrever,Palha,Cisterna,Fossa séptica,0,NIS100149,-3.628542,-39.50354
+FAM00150,Novo Angelim,Rua 7 de Setembro - Novo Angelim,urbana,2,113,56.5,0,0,1,19,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100150,-3.624369,-39.50421
+FAM00151,Carrapato,Rua Nossa Senhora,rural,2,426,213.0,0,0,0,32,Fundamental incompleto,Taipa revestida,Poço,Vala a céu aberto,0,NIS100151,-3.628494,-39.512619
+FAM00152,Sobradinho,Rua Principal,rural,3,228,76.0,1,0,1,46,Médio completo,Taipa não revestida,Poço,Fossa séptica,0,NIS100152,-3.619271,-39.503651
+FAM00153,Alto da Colina,Rua Nova - Alto da Colina,urbana,2,253,126.5,1,1,0,54,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100153,-3.623254,-39.503528
+FAM00154,Barreiros,Rua da Igreja - Barreiros,rural,3,228,76.0,0,0,0,57,Fundamental incompleto,Taipa não revestida,Poço,Vala a céu aberto,0,NIS100154,-3.628787,-39.507152
+FAM00155,Alto São João,Rua do Comércio,urbana,4,2022,505.5,0,0,0,23,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100155,-3.625905,-39.501821
+FAM00156,Jenipapo,Rua do Comércio,rural,1,711,711.0,0,0,0,40,Fundamental completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100156,-3.625836,-39.512814
+FAM00157,Angelim,Rua José de Alencar,urbana,4,385,96.25,1,0,0,47,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100157,-3.623735,-39.500947
+FAM00158,Belmonte,Rua do Estádio - Belmonte,rural,3,103,34.33,1,0,1,43,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100158,-3.628501,-39.507658
+FAM00159,Bela Vista,Rua José de Alencar - Bela Vista,urbana,7,3029,432.71,1,0,0,45,Fundamental incompleto,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100159,-3.621069,-39.503398
+FAM00160,Casinhas,Rua Principal - Casinhas,urbana,5,70,14.0,1,0,0,45,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100160,-3.627043,-39.4984
+FAM00161,Centro,Rua do Cruzeiro - Centro,urbana,2,252,126.0,0,0,0,30,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100161,-3.623054,-39.505243
+FAM00162,Casinhas,Rua do Estádio - Casinhas,urbana,4,702,175.5,1,0,0,61,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100162,-3.625832,-39.499966
+FAM00163,Açude dos Vianas,Rua Principal - Açude dos Vianas,rural,2,185,92.5,1,0,1,39,Superior incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100163,-3.629696,-39.501067
+FAM00164,Alto da Colina,Rua do Comércio - Alto da Colina,urbana,4,737,184.25,0,0,0,47,Fundamental incompleto,Outra,Rede geral,Vala a céu aberto,0,NIS100164,-3.620902,-39.505047
+FAM00165,Novo Angelim,Rua José de Alencar,urbana,8,807,100.88,1,0,0,33,Superior incompleto,Madeira,Cisterna,Rede coletora,0,NIS100165,-3.62365,-39.504686
+FAM00166,Ouro,Rua Nova - Ouro,rural,4,490,122.5,1,0,0,63,Não sabe ler/escrever,Taipa revestida,Poço,Vala a céu aberto,0,NIS100166,-3.624443,-39.511117
+FAM00167,Novo Angelim,Rua do Mercado - Novo Angelim,urbana,4,241,60.25,1,0,0,46,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Vala a céu aberto,0,NIS100167,-3.626236,-39.502386
+FAM00168,Água Fria,Rua do Comércio - Água Fria,rural,4,1704,426.0,1,0,0,24,Fundamental incompleto,Taipa revestida,Rede geral,Fossa rudimentar,0,NIS100168,-3.630007,-39.501223
+FAM00169,Guaribuna,Rua Francisco Ferreira Fonteneles - Guaribuna,rural,4,808,202.0,0,0,0,78,Médio completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100169,-3.627831,-39.510912
+FAM00170,Novo Angelim,Rua da Escola - Novo Angelim,urbana,3,354,118.0,0,0,0,48,Não sabe ler/escrever,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100170,-3.62369,-39.502201
+FAM00171,Alto São João,Rua da Escola,urbana,4,294,73.5,1,0,0,18,Não sabe ler/escrever,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100171,-3.626375,-39.50259
+FAM00172,Novo Angelim,Rua 7 de Setembro - Novo Angelim,urbana,5,1474,294.8,1,0,0,53,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100172,-3.624967,-39.501971
+FAM00173,Casinhas,Rua do Cruzeiro,urbana,2,2495,1247.5,0,0,0,47,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Vala a céu aberto,0,NIS100173,-3.627203,-39.499639
+FAM00174,Alto São João,Rua do Comércio - Alto São João,urbana,3,1305,435.0,0,0,0,55,Fundamental completo,Madeira,Rede geral,Fossa séptica,0,NIS100174,-3.624848,-39.500726
+FAM00175,Barreiros,Rua da Escola - Barreiros,rural,7,57,8.14,1,0,0,40,Fundamental incompleto,Palha,Cisterna,Fossa rudimentar,0,NIS100175,-3.630695,-39.507406
+FAM00176,Barreiros,Rua Francisco Ferreira Fonteneles,rural,4,2533,633.25,0,0,0,42,Médio completo,Taipa revestida,Cisterna,Fossa séptica,0,NIS100176,-3.628484,-39.507441
+FAM00177,Prata dos Galdinos,Rua 7 de Setembro,rural,3,1340,446.67,0,0,0,69,Médio completo,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100177,-3.623149,-39.509551
+FAM00178,Pedra Furada,Rua Francisco Ferreira Fonteneles - Pedra Furada,rural,2,262,131.0,1,0,0,55,Fundamental completo,Palha,Poço,Fossa rudimentar,0,NIS100178,-3.623467,-39.510501
+FAM00179,Serra do Sítio,Avenida Central - Serra do Sítio,rural,3,312,104.0,1,0,0,18,Superior completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100179,-3.623126,-39.50791
+FAM00180,Centro,Rua Francisco Ferreira Fonteneles - Centro,urbana,3,102,34.0,0,0,1,40,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100180,-3.620121,-39.503286
+FAM00181,Prata dos Galdinos,Rua José de Alencar - Prata dos Galdinos,rural,1,1438,1438.0,0,0,0,56,Fundamental completo,Taipa revestida,Poço,Fossa séptica,0,NIS100181,-3.621075,-39.510323
+FAM00182,Casinhas,Rua do Mercado - Casinhas,urbana,5,226,45.2,0,0,0,65,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100182,-3.626843,-39.500064
+FAM00183,Casinhas,Rua do Comércio,urbana,6,116,19.33,1,0,0,35,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100183,-3.626525,-39.500124
+FAM00184,Água Fria,Rua da Igreja - Água Fria,rural,3,263,87.67,1,0,0,29,Fundamental incompleto,Taipa revestida,Poço,Fossa séptica,0,NIS100184,-3.6291,-39.501438
+FAM00185,Aguaí,Rua do Estádio - Aguaí,rural,3,1764,588.0,0,0,0,51,Médio completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100185,-3.626507,-39.504154
+FAM00186,Bananal,Rua Principal - Bananal,rural,4,1041,260.25,0,0,0,27,Fundamental completo,Taipa não revestida,Cisterna,Vala a céu aberto,1,NIS100186,-3.627194,-39.50821
+FAM00187,Lajedos,Rua Principal - Lajedos,urbana,6,618,103.0,1,0,1,36,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100187,-3.625207,-39.502857
+FAM00188,Alto da Colina,Travessa do Sol - Alto da Colina,urbana,3,539,179.67,0,0,0,18,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100188,-3.62284,-39.505903
+FAM00189,Apertada Hora,Rua do Mercado,rural,2,1285,642.5,0,0,0,18,Fundamental completo,Taipa revestida,Cisterna,Fossa séptica,0,NIS100189,-3.62842,-39.505537
+FAM00190,Lajedos,Rua Nova,urbana,3,545,181.67,0,0,0,66,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100190,-3.623351,-39.503392
+FAM00191,Lajedos,Rua São Pedro - Lajedos,urbana,3,254,84.67,1,0,0,32,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100191,-3.628414,-39.503822
+FAM00192,Água Fria,Rua São Pedro,rural,4,618,154.5,0,0,0,29,Fundamental incompleto,Taipa revestida,Poço,Fossa séptica,0,NIS100192,-3.6299,-39.50196
+FAM00193,Aguaí,Travessa do Sol - Aguaí,rural,4,3059,764.75,0,0,0,55,Médio completo,Taipa revestida,Poço,Fossa séptica,0,NIS100193,-3.625714,-39.505501
+FAM00194,Lajedos,Rua São Pedro - Lajedos,urbana,6,454,75.67,0,0,1,56,Não sabe ler/escrever,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100194,-3.626385,-39.503614
+FAM00195,Casinhas,Avenida Central,urbana,4,187,46.75,1,0,0,32,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,1,NIS100195,-3.626168,-39.501027
+FAM00196,Angelim,Rua Nova - Angelim,urbana,5,627,125.4,1,0,0,63,Não sabe ler/escrever,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100196,-3.621431,-39.500888
+FAM00197,Volta,Rua Nova - Volta,urbana,6,679,113.17,1,0,0,45,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100197,-3.62426,-39.500088
+FAM00198,Angelim,Travessa do Sol - Angelim,urbana,3,1060,353.33,0,0,0,39,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100198,-3.623926,-39.500695
+FAM00199,Baixa Grande,Rua do Cruzeiro,rural,3,236,78.67,0,0,0,33,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100199,-3.630823,-39.505549
+FAM00200,Angelim,Rua José de Alencar - Angelim,urbana,1,365,365.0,0,0,0,48,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100200,-3.622499,-39.50127
+FAM00201,Volta,Rua do Mercado - Volta,urbana,2,1401,700.5,0,0,0,30,Médio completo,Madeira,Cisterna,Rede coletora,0,NIS100201,-3.623079,-39.498005
+FAM00202,Bela Vista,Rua Francisco Ferreira Fonteneles,urbana,3,1638,546.0,0,0,0,50,Não sabe ler/escrever,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100202,-3.621066,-39.501261
+FAM00203,Mundaú,Rua São Pedro - Mundaú,rural,3,928,309.33,0,0,0,44,Superior incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100203,-3.62516,-39.509246
+FAM00204,Lajedos,Rua Principal,urbana,5,814,162.8,1,0,0,39,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100204,-3.625215,-39.504705
+FAM00205,Bela Vista,Rua da Igreja,urbana,6,789,131.5,1,0,0,60,Médio completo,Alvenaria sem revestimento,Poço,Vala a céu aberto,0,NIS100205,-3.620329,-39.503029
+FAM00206,Alto da Colina,Rua da Igreja - Alto da Colina,urbana,3,238,79.33,0,0,0,39,Fundamental completo,Madeira,Poço,Fossa séptica,0,NIS100206,-3.62203,-39.504315
+FAM00207,Bom Jesus,Rua do Comércio - Bom Jesus,rural,6,639,106.5,0,0,0,43,Fundamental completo,Palha,Poço,Fossa rudimentar,0,NIS100207,-3.627111,-39.508476
+FAM00208,Volta,Rua do Mercado - Volta,urbana,3,104,34.67,1,0,0,38,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100208,-3.624616,-39.500478
+FAM00209,Bela Vista,Rua do Mercado - Bela Vista,urbana,3,1690,563.33,0,0,0,26,Não sabe ler/escrever,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100209,-3.620142,-39.504611
+FAM00210,Belmonte,Avenida Central - Belmonte,rural,4,173,43.25,0,0,0,42,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100210,-3.629174,-39.508763
+FAM00211,Angelim,Rua do Comércio,urbana,5,339,67.8,1,0,0,53,Fundamental completo,Alvenaria sem revestimento,Cisterna,Fossa séptica,0,NIS100211,-3.621587,-39.501648
+FAM00212,Alto São João,Rua do Estádio,urbana,4,307,76.75,1,0,0,18,Médio completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100212,-3.624992,-39.503021
+FAM00213,Casinhas,Rua 7 de Setembro,urbana,2,154,77.0,0,0,0,46,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100213,-3.625602,-39.500403
+FAM00214,Angelim,Rua São Pedro - Angelim,urbana,4,707,176.75,1,1,0,48,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100214,-3.622299,-39.500357
+FAM00215,Sítio Pau Alto,Rua do Cruzeiro - Sítio Pau Alto,rural,4,259,64.75,0,0,0,38,Fundamental completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100215,-3.617889,-39.505009
+FAM00216,Casinhas,Rua Francisco Ferreira Fonteneles - Casinhas,urbana,4,1414,353.5,0,0,0,36,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100216,-3.628904,-39.498165
+FAM00217,Santa Úrsula,Rua do Estádio - Santa Úrsula,rural,1,122,122.0,1,0,0,37,Não sabe ler/escrever,Palha,Poço,Fossa séptica,0,NIS100217,-3.62044,-39.508555
+FAM00218,Pedra Furada,Rua da Escola - Pedra Furada,rural,5,962,192.4,1,0,0,43,Fundamental completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100218,-3.623016,-39.508923
+FAM00219,Santa Úrsula,Rua Principal - Santa Úrsula,rural,4,172,43.0,0,0,0,58,Médio completo,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100219,-3.619029,-39.507441
+FAM00220,Baixa Grande,Rua da Escola - Baixa Grande,rural,3,447,149.0,0,0,0,30,Fundamental incompleto,Taipa revestida,Cisterna,Vala a céu aberto,0,NIS100220,-3.63076,-39.506157
+FAM00221,Bela Vista,Rua do Mercado,urbana,4,112,28.0,0,0,0,42,Fundamental completo,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100221,-3.621664,-39.501077
+FAM00222,Bela Vista,Rua 7 de Setembro,urbana,6,386,64.33,0,0,0,50,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100222,-3.622536,-39.502555
+FAM00223,Casinhas,Rua do Comércio - Casinhas,urbana,4,166,41.5,0,0,0,38,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100223,-3.626087,-39.499601
+FAM00224,Angelim,Rua da Escola - Angelim,urbana,1,750,750.0,0,0,0,49,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100224,-3.622762,-39.501798
+FAM00225,Lajedos,Rua Nova - Lajedos,urbana,2,103,51.5,1,0,0,50,Superior incompleto,Alvenaria sem revestimento,Cisterna,Rede coletora,0,NIS100225,-3.626192,-39.501937
+FAM00226,Volta,Rua Nova,urbana,3,92,30.67,1,0,0,56,Médio completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100226,-3.624932,-39.502268
+FAM00227,Santa Úrsula,Rua do Cruzeiro - Santa Úrsula,rural,3,762,254.0,0,0,0,48,Fundamental completo,Taipa não revestida,Poço,Vala a céu aberto,0,NIS100227,-3.622393,-39.509572
+FAM00228,Angelim,Rua da Igreja,urbana,7,2324,332.0,1,0,0,48,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100228,-3.621675,-39.501922
+FAM00229,Ouro,Rua da Escola,rural,3,324,108.0,1,0,0,37,Fundamental incompleto,Taipa não revestida,Cisterna,Fossa séptica,0,NIS100229,-3.624067,-39.511913
+FAM00230,Centro,Rua Principal,urbana,4,499,124.75,1,0,0,19,Médio completo,Outra,Rede geral,Fossa séptica,0,NIS100230,-3.621592,-39.502994
+FAM00231,Santa Maria,Travessa do Sol - Santa Maria,rural,5,377,75.4,1,0,0,45,Médio completo,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100231,-3.623867,-39.508166
+FAM00232,Angelim,Rua Francisco Ferreira Fonteneles - Angelim,urbana,1,1914,1914.0,0,0,0,32,Fundamental incompleto,Alvenaria com revestimento,Poço,Vala a céu aberto,1,NIS100232,-3.621185,-39.500515
+FAM00233,Açude dos Vianas,Avenida Central - Açude dos Vianas,rural,7,734,104.86,1,0,0,25,Fundamental incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100233,-3.627678,-39.503357
+FAM00234,Itamaraty,Rua do Cruzeiro - Itamaraty,urbana,5,178,35.6,0,0,0,46,Fundamental incompleto,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100234,-3.62211,-39.499341
+FAM00235,Angelim,Rua do Comércio - Angelim,urbana,1,268,268.0,0,0,0,56,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100235,-3.621987,-39.503713
+FAM00236,Alto São João,Rua da Igreja - Alto São João,urbana,6,290,48.33,0,0,0,51,Fundamental incompleto,Alvenaria sem revestimento,Cisterna,Rede coletora,0,NIS100236,-3.628195,-39.501879
+FAM00237,Novo Angelim,Rua da Igreja - Novo Angelim,urbana,4,618,154.5,1,0,0,25,Médio completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100237,-3.624466,-39.503809
+FAM00238,Açude dos Vianas,Rua Principal - Açude dos Vianas,rural,4,789,197.25,0,0,0,37,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100238,-3.628588,-39.502932
+FAM00239,Aguaí,Rua do Mercado - Aguaí,rural,5,351,70.2,1,0,0,39,Superior completo,Taipa revestida,Rede geral,Vala a céu aberto,0,NIS100239,-3.624529,-39.505493
+FAM00240,Itamaraty,Rua da Igreja - Itamaraty,urbana,3,1380,460.0,1,0,0,44,Fundamental incompleto,Madeira,Rede geral,Fossa séptica,0,NIS100240,-3.621153,-39.501336
+FAM00241,Água Fria,Rua do Estádio - Água Fria,rural,6,328,54.67,1,0,0,54,Fundamental completo,Taipa não revestida,Cisterna,Fossa séptica,0,NIS100241,-3.63065,-39.501152
+FAM00242,Ferrão,Rua São Pedro,rural,3,1294,431.33,0,0,0,46,Não sabe ler/escrever,Palha,Poço,Fossa rudimentar,0,NIS100242,-3.627015,-39.506934
+FAM00243,Casinhas,Rua do Comércio - Casinhas,urbana,3,600,200.0,1,0,1,43,Não sabe ler/escrever,Madeira,Rede geral,Rede coletora,0,NIS100243,-3.626992,-39.499118
+FAM00244,Novo Angelim,Rua do Comércio,urbana,3,2728,909.33,1,0,0,45,Superior incompleto,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100244,-3.623183,-39.501957
+FAM00245,Centro,Rua da Escola - Centro,urbana,5,1406,281.2,0,0,0,24,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100245,-3.620913,-39.503905
+FAM00246,Volta,Rua do Mercado - Volta,urbana,5,153,30.6,1,0,0,31,Não sabe ler/escrever,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100246,-3.624974,-39.497933
+FAM00247,Centro,Rua do Mercado - Centro,urbana,3,479,159.67,1,0,0,45,Fundamental completo,Madeira,Cisterna,Rede coletora,0,NIS100247,-3.622947,-39.503489
+FAM00248,Volta,Rua Nova,urbana,2,2342,1171.0,0,0,0,51,Médio completo,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100248,-3.621327,-39.500451
+FAM00249,Santa Úrsula,Rua Nova - Santa Úrsula,rural,2,4911,2455.5,0,0,0,33,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100249,-3.619907,-39.509503
+FAM00250,Santa Úrsula,Rua Principal - Santa Úrsula,rural,3,1046,348.67,1,0,0,45,Médio completo,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100250,-3.619199,-39.509156
+FAM00251,Volta,Rua Nossa Senhora - Volta,urbana,2,982,491.0,0,0,0,56,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100251,-3.622984,-39.499359
+FAM00252,Casinhas,Rua do Mercado - Casinhas,urbana,3,160,53.33,0,0,0,42,Fundamental completo,Outra,Rede geral,Rede coletora,0,NIS100252,-3.627529,-39.497936
+FAM00253,Sobradinho,Travessa do Sol - Sobradinho,rural,5,576,115.2,1,0,0,49,Superior incompleto,Taipa revestida,Poço,Fossa séptica,0,NIS100253,-3.619241,-39.504885
+FAM00254,Lajedos,Rua 7 de Setembro - Lajedos,urbana,4,1207,301.75,0,0,0,45,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100254,-3.625852,-39.503901
+FAM00255,Itamaraty,Rua do Mercado - Itamaraty,urbana,2,1454,727.0,0,0,0,46,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100255,-3.619765,-39.503191
+FAM00256,Alto da Colina,Rua do Estádio,urbana,5,1705,341.0,1,0,0,40,Superior incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100256,-3.623476,-39.503831
+FAM00257,Itamaraty,Rua Nossa Senhora,urbana,3,378,126.0,1,0,0,21,Não sabe ler/escrever,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100257,-3.619734,-39.499313
+FAM00258,Itamaraty,Rua do Mercado,urbana,4,147,36.75,1,0,0,49,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100258,-3.620312,-39.501464
+FAM00259,Novo Angelim,Rua Francisco Ferreira Fonteneles - Novo Angelim,urbana,3,304,101.33,1,0,0,40,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100259,-3.622674,-39.501496
+FAM00260,Bananal,Rua 7 de Setembro - Bananal,rural,7,3272,467.43,1,0,0,50,Não sabe ler/escrever,Alvenaria com revestimento,Cisterna,Fossa rudimentar,0,NIS100260,-3.627936,-39.507575
+FAM00261,Carrapato,Rua Nossa Senhora,rural,7,365,52.14,1,0,0,27,Fundamental completo,Taipa revestida,Poço,Fossa séptica,1,NIS100261,-3.63014,-39.511895
+FAM00262,Novo Angelim,Rua Nossa Senhora,urbana,4,216,54.0,1,0,0,57,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100262,-3.624553,-39.50375
+FAM00263,Alto da Colina,Rua da Escola,urbana,8,775,96.88,0,0,0,37,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100263,-3.621214,-39.505431
+FAM00264,Bananal,Rua Nossa Senhora,rural,6,569,94.83,1,0,0,36,Fundamental incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100264,-3.627801,-39.507464
+FAM00265,São João,Rua Principal - São João,rural,4,1378,344.5,0,0,0,18,Fundamental completo,Taipa revestida,Poço,Fossa séptica,0,NIS100265,-3.617348,-39.507429
+FAM00266,Novo Angelim,Rua do Estádio,urbana,4,890,222.5,0,0,0,53,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,1,NIS100266,-3.62621,-39.503425
+FAM00267,Água Fria,Rua do Estádio - Água Fria,rural,4,221,55.25,1,0,0,41,Fundamental completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100267,-3.629376,-39.501006
+FAM00268,Ouro,Rua Nova - Ouro,rural,5,561,112.2,1,0,0,53,Fundamental incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100268,-3.623902,-39.512677
+FAM00269,Alto da Colina,Rua do Estádio - Alto da Colina,urbana,4,1641,410.25,0,0,0,58,Médio completo,Madeira,Rede geral,Rede coletora,0,NIS100269,-3.623899,-39.502676
+FAM00270,Mundaú,Avenida Central - Mundaú,rural,3,384,128.0,0,0,0,48,Fundamental incompleto,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100270,-3.625917,-39.509785
+FAM00271,Canto Escuro,Rua do Estádio,rural,7,1217,173.86,0,0,0,32,Médio completo,Palha,Rede geral,Fossa rudimentar,0,NIS100271,-3.630244,-39.509281
+FAM00272,Alto da Colina,Rua Nova,urbana,5,314,62.8,0,0,0,22,Fundamental incompleto,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100272,-3.62305,-39.503226
+FAM00273,Centro,Rua do Cruzeiro - Centro,urbana,4,379,94.75,0,0,0,35,Fundamental incompleto,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100273,-3.621645,-39.504262
+FAM00274,Alto da Colina,Travessa do Sol - Alto da Colina,urbana,4,192,48.0,1,0,0,42,Fundamental incompleto,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100274,-3.623068,-39.503345
+FAM00275,Carrapato,Rua da Escola - Carrapato,rural,5,1055,211.0,0,0,0,58,Fundamental incompleto,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100275,-3.628951,-39.510151
+FAM00276,Bela Vista,Rua Nossa Senhora,urbana,4,227,56.75,1,0,0,74,Médio completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100276,-3.621287,-39.502492
+FAM00277,Angelim,Avenida Central,urbana,1,526,526.0,0,0,0,44,Fundamental completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,1,NIS100277,-3.62241,-39.501546
+FAM00278,Casinhas,Travessa do Sol - Casinhas,urbana,3,43,14.33,1,0,0,55,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100278,-3.628458,-39.501676
+FAM00279,Santa Úrsula,Rua do Estádio - Santa Úrsula,rural,5,201,40.2,0,0,0,67,Fundamental completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100279,-3.620363,-39.509073
+FAM00280,Casinhas,Avenida Central - Casinhas,urbana,3,758,252.67,1,0,0,51,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100280,-3.625391,-39.501364
+FAM00281,Açude dos Vianas,Rua Principal - Açude dos Vianas,rural,1,448,448.0,0,1,0,35,Médio completo,Taipa revestida,Poço,Fossa séptica,0,NIS100281,-3.627207,-39.502623
+FAM00282,Angelim,Rua do Comércio,urbana,5,616,123.2,1,0,1,19,Superior completo,Madeira,Rede geral,Fossa séptica,0,NIS100282,-3.621832,-39.502083
+FAM00283,Lajedos,Rua da Escola - Lajedos,urbana,3,609,203.0,0,0,0,23,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100283,-3.625928,-39.504152
+FAM00284,Centro,Rua Principal - Centro,urbana,2,349,174.5,1,0,0,46,Fundamental completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100284,-3.621208,-39.505039
+FAM00285,Lajedos,Travessa do Sol,urbana,1,2024,2024.0,0,0,0,42,Superior incompleto,Madeira,Poço,Fossa séptica,0,NIS100285,-3.626995,-39.503666
+FAM00286,Ferrão,Rua 7 de Setembro - Ferrão,rural,3,1810,603.33,0,0,0,42,Médio completo,Palha,Poço,Fossa rudimentar,0,NIS100286,-3.626327,-39.508969
+FAM00287,Volta,Travessa do Sol - Volta,urbana,7,708,101.14,1,0,0,34,Fundamental incompleto,Outra,Rede geral,Fossa séptica,0,NIS100287,-3.622231,-39.498955
+FAM00288,Lajedos,Rua da Igreja - Lajedos,urbana,3,140,46.67,1,0,0,60,Fundamental incompleto,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100288,-3.624169,-39.502997
+FAM00289,Bela Vista,Travessa do Sol,urbana,3,1753,584.33,0,0,1,39,Fundamental incompleto,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100289,-3.622111,-39.502234
+FAM00290,Lajedos,Rua Nova - Lajedos,urbana,2,304,152.0,1,0,0,38,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100290,-3.625458,-39.502172
+FAM00291,Bom Jesus,Rua Francisco Ferreira Fonteneles - Bom Jesus,rural,4,323,80.75,0,0,0,35,Superior incompleto,Taipa revestida,Poço,Fossa séptica,0,NIS100291,-3.628438,-39.507926
+FAM00292,São João,Travessa do Sol,rural,4,644,161.0,0,0,0,40,Fundamental completo,Taipa não revestida,Poço,Vala a céu aberto,0,NIS100292,-3.618072,-39.507878
+FAM00293,Açude dos Vianas,Rua da Igreja,rural,4,999,249.75,0,0,0,50,Médio completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100293,-3.626898,-39.503338
+FAM00294,Casinhas,Rua do Cruzeiro - Casinhas,urbana,3,444,148.0,0,0,0,65,Fundamental incompleto,Outra,Rede geral,Vala a céu aberto,0,NIS100294,-3.627166,-39.501501
+FAM00295,Alto da Colina,Avenida Central - Alto da Colina,urbana,1,970,970.0,0,0,0,25,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100295,-3.621676,-39.505016
+FAM00296,Novo Angelim,Rua Principal,urbana,2,1221,610.5,0,0,0,34,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100296,-3.62465,-39.504672
+FAM00297,Volta,Rua São Pedro,urbana,4,172,43.0,1,0,0,49,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100297,-3.623363,-39.498667
+FAM00298,Volta,Rua do Cruzeiro - Volta,urbana,5,354,70.8,0,0,0,32,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100298,-3.622906,-39.497989
+FAM00299,Bela Vista,Rua 7 de Setembro,urbana,4,394,98.5,1,0,0,77,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100299,-3.622404,-39.503296
+FAM00300,Angelim,Rua da Igreja - Angelim,urbana,7,495,70.71,1,0,0,53,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100300,-3.623698,-39.501617
+FAM00301,Canto Escuro,Rua do Cruzeiro - Canto Escuro,rural,4,450,112.5,1,0,0,19,Fundamental completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100301,-3.629251,-39.50913
+FAM00302,Novo Angelim,Avenida Central - Novo Angelim,urbana,6,1422,237.0,0,0,0,39,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100302,-3.625151,-39.503653
+FAM00303,Guaribuna,Rua 7 de Setembro,rural,7,634,90.57,1,0,0,56,Médio completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100303,-3.626402,-39.511588
+FAM00304,Canto Escuro,Rua da Igreja,rural,4,246,61.5,1,0,0,24,Médio completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100304,-3.627806,-39.509134
+FAM00305,Itamaraty,Rua Nova - Itamaraty,urbana,4,314,78.5,1,0,0,61,Médio completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100305,-3.62139,-39.499605
+FAM00306,Novo Angelim,Rua do Cruzeiro,urbana,4,818,204.5,1,0,0,23,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100306,-3.622691,-39.505305
+FAM00307,Novo Angelim,Rua do Cruzeiro - Novo Angelim,urbana,4,529,132.25,0,0,0,42,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100307,-3.625468,-39.501973
+FAM00308,Serra do Sítio,Rua do Mercado - Serra do Sítio,rural,3,1231,410.33,0,0,0,52,Superior incompleto,Taipa revestida,Cisterna,Fossa séptica,0,NIS100308,-3.619929,-39.506095
+FAM00309,Bananal,Rua São Pedro - Bananal,rural,5,1273,254.6,0,0,0,39,Fundamental incompleto,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100309,-3.627462,-39.50818
+FAM00310,Lajedos,Rua da Escola - Lajedos,urbana,3,549,183.0,0,0,0,33,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,1,NIS100310,-3.624708,-39.502553
+FAM00311,Novo Angelim,Rua da Igreja - Novo Angelim,urbana,7,523,74.71,1,0,0,18,Superior incompleto,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100311,-3.624885,-39.50315
+FAM00312,Sítio Pirapora,Rua Francisco Ferreira Fonteneles - Sítio Pirapora,rural,2,68,34.0,1,0,0,60,Médio completo,Taipa revestida,Cisterna,Fossa séptica,0,NIS100312,-3.621786,-39.504716
+FAM00313,Angelim,Rua da Escola - Angelim,urbana,3,429,143.0,1,0,0,63,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100313,-3.621021,-39.501929
+FAM00314,Barreiros,Travessa do Sol - Barreiros,rural,2,205,102.5,1,0,0,55,Fundamental incompleto,Taipa revestida,Poço,Fossa séptica,1,NIS100314,-3.628782,-39.506785
+FAM00315,Lajedos,Rua São Pedro - Lajedos,urbana,4,1101,275.25,0,0,0,38,Médio completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100315,-3.625534,-39.504915
+FAM00316,Volta,Rua José de Alencar - Volta,urbana,4,241,60.25,1,0,1,44,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100316,-3.622615,-39.501296
+FAM00317,Mundaú,Rua José de Alencar - Mundaú,rural,5,369,73.8,1,0,0,42,Fundamental incompleto,Taipa não revestida,Cisterna,Fossa séptica,0,NIS100317,-3.624573,-39.508191
+FAM00318,Santa Úrsula,Rua Nova - Santa Úrsula,rural,4,564,141.0,1,0,0,69,Superior completo,Palha,Poço,Fossa séptica,0,NIS100318,-3.618452,-39.508992
+FAM00319,Casinhas,Rua José de Alencar - Casinhas,urbana,5,249,49.8,0,0,0,31,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100319,-3.62661,-39.500981
+FAM00320,Sítio Pau Alto,Rua do Mercado - Sítio Pau Alto,rural,5,249,49.8,1,0,0,38,Fundamental completo,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100320,-3.617342,-39.504973
+FAM00321,Itamaraty,Rua do Cruzeiro - Itamaraty,urbana,5,1148,229.6,0,0,0,29,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100321,-3.620269,-39.500295
+FAM00322,Bela Vista,Rua da Escola - Bela Vista,urbana,8,993,124.12,0,0,0,26,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100322,-3.622199,-39.503033
+FAM00323,Casinhas,Rua do Cruzeiro,urbana,2,296,148.0,1,0,0,26,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100323,-3.628127,-39.501487
+FAM00324,Santa Maria,Rua São Pedro,rural,5,177,35.4,1,0,0,29,Fundamental completo,Palha,Cisterna,Vala a céu aberto,0,NIS100324,-3.621936,-39.508417
+FAM00325,Volta,Rua Principal,urbana,5,1145,229.0,0,0,0,33,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100325,-3.62294,-39.500082
+FAM00326,Alto da Colina,Rua do Cruzeiro - Alto da Colina,urbana,4,1069,267.25,0,0,0,18,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100326,-3.624962,-39.503636
+FAM00327,Angelim,Rua Nova - Angelim,urbana,2,286,143.0,1,0,0,46,Médio completo,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100327,-3.62336,-39.501553
+FAM00328,Sítio Pau Alto,Rua Nova - Sítio Pau Alto,rural,4,704,176.0,0,0,1,18,Fundamental incompleto,Palha,Cisterna,Fossa rudimentar,0,NIS100328,-3.616987,-39.506243
+FAM00329,Baixa Grande,Rua Francisco Ferreira Fonteneles,rural,4,342,85.5,0,0,0,33,Fundamental completo,Alvenaria com revestimento,Cisterna,Vala a céu aberto,0,NIS100329,-3.631984,-39.505974
+FAM00330,Água Fria,Rua Nova - Água Fria,rural,5,979,195.8,1,0,0,49,Superior completo,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100330,-3.629725,-39.501063
+FAM00331,Alto São João,Rua São Pedro - Alto São João,urbana,5,352,70.4,1,1,0,67,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100331,-3.625638,-39.503723
+FAM00332,Bela Vista,Rua José de Alencar,urbana,5,202,40.4,0,0,0,54,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100332,-3.620488,-39.503386
+FAM00333,Jenipapo,Rua do Mercado - Jenipapo,rural,4,652,163.0,0,0,1,19,Fundamental incompleto,Taipa revestida,Rede geral,Vala a céu aberto,0,NIS100333,-3.627041,-39.513015
+FAM00334,Santa Maria,Rua São Pedro - Santa Maria,rural,2,317,158.5,0,0,0,35,Não sabe ler/escrever,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100334,-3.623467,-39.507647
+FAM00335,Alto da Colina,Rua 7 de Setembro,urbana,4,2001,500.25,0,0,0,49,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100335,-3.622603,-39.5024
+FAM00336,São João,Travessa do Sol,rural,5,875,175.0,1,0,0,48,Fundamental incompleto,Palha,Poço,Vala a céu aberto,0,NIS100336,-3.617713,-39.510475
+FAM00337,Ouro,Travessa do Sol - Ouro,rural,2,494,247.0,0,0,0,64,Superior incompleto,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100337,-3.626143,-39.512578
+FAM00338,Belmonte,Rua do Comércio - Belmonte,rural,3,1077,359.0,0,0,0,18,Fundamental incompleto,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100338,-3.630256,-39.508512
+FAM00339,Santa Maria,Rua 7 de Setembro - Santa Maria,rural,2,294,147.0,1,0,0,38,Fundamental incompleto,Taipa revestida,Poço,Fossa séptica,0,NIS100339,-3.622404,-39.507235
+FAM00340,Açude dos Vianas,Rua do Mercado - Açude dos Vianas,rural,5,1250,250.0,0,0,0,62,Fundamental incompleto,Taipa revestida,Poço,Vala a céu aberto,0,NIS100340,-3.626742,-39.503239
+FAM00341,Bela Vista,Rua Nossa Senhora,urbana,6,1941,323.5,1,0,0,22,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100341,-3.620815,-39.502882
+FAM00342,Novo Angelim,Rua Nova,urbana,4,208,52.0,1,0,0,54,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100342,-3.625266,-39.503174
+FAM00343,Itamaraty,Rua Nossa Senhora,urbana,3,266,88.67,0,0,0,30,Fundamental completo,Outra,Cisterna,Rede coletora,0,NIS100343,-3.620797,-39.500958
+FAM00344,Casinhas,Rua José de Alencar,urbana,3,392,130.67,1,0,0,32,Superior completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100344,-3.62661,-39.500874
+FAM00345,Água Fria,Rua da Igreja - Água Fria,rural,6,2437,406.17,0,0,0,35,Médio completo,Taipa revestida,Poço,Fossa séptica,0,NIS100345,-3.629877,-39.500618
+FAM00346,Belmonte,Rua do Mercado - Belmonte,rural,6,2338,389.67,1,0,0,21,Fundamental completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100346,-3.630846,-39.510462
+FAM00347,Bela Vista,Rua José de Alencar,urbana,6,388,64.67,1,1,0,56,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100347,-3.621169,-39.501099
+FAM00348,Baixa Grande,Rua Nossa Senhora - Baixa Grande,rural,5,145,29.0,1,0,0,47,Fundamental incompleto,Palha,Cisterna,Fossa rudimentar,0,NIS100348,-3.630561,-39.50623
+FAM00349,Alto São João,Rua do Cruzeiro,urbana,4,5955,1488.75,0,0,0,33,Superior incompleto,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100349,-3.625536,-39.500878
+FAM00350,Paraíso,Rua da Igreja - Paraíso,rural,4,187,46.75,1,0,0,43,Fundamental incompleto,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100350,-3.62337,-39.511563
+FAM00351,Lajedos,Avenida Central - Lajedos,urbana,8,162,20.25,1,0,0,55,Fundamental completo,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100351,-3.624917,-39.503574
+FAM00352,Alto São João,Rua São Pedro - Alto São João,urbana,3,1105,368.33,0,0,1,57,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100352,-3.624336,-39.500978
+FAM00353,Casinhas,Travessa do Sol - Casinhas,urbana,5,319,63.8,0,0,0,43,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100353,-3.625864,-39.499928
+FAM00354,Sítio Pirapora,Rua do Mercado - Sítio Pirapora,rural,7,766,109.43,1,0,1,49,Fundamental incompleto,Palha,Cisterna,Fossa rudimentar,0,NIS100354,-3.62063,-39.505398
+FAM00355,Pedra Furada,Rua José de Alencar,rural,1,79,79.0,1,0,0,71,Fundamental completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100355,-3.622817,-39.508217
+FAM00356,Itamaraty,Rua 7 de Setembro,urbana,4,586,146.5,0,0,0,32,Fundamental incompleto,Alvenaria sem revestimento,Poço,Vala a céu aberto,0,NIS100356,-3.621069,-39.500561
+FAM00357,Alto São João,Rua José de Alencar,urbana,6,834,139.0,1,0,0,36,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100357,-3.624616,-39.50112
+FAM00358,Angelim,Rua Nossa Senhora,urbana,4,412,103.0,0,0,0,27,Fundamental incompleto,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100358,-3.625154,-39.500803
+FAM00359,Belmonte,Rua do Estádio - Belmonte,rural,4,1462,365.5,0,0,0,41,Médio completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100359,-3.631179,-39.508842
+FAM00360,Santa Maria,Rua da Escola - Santa Maria,rural,2,90,45.0,0,0,0,36,Não sabe ler/escrever,Taipa revestida,Poço,Fossa séptica,0,NIS100360,-3.622179,-39.509905
+FAM00361,Sítio Oiticica,Rua Nossa Senhora - Sítio Oiticica,rural,5,468,93.6,0,0,1,37,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100361,-3.617903,-39.507429
+FAM00362,Casinhas,Rua José de Alencar,urbana,2,480,240.0,0,0,0,23,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Vala a céu aberto,0,NIS100362,-3.625951,-39.501076
+FAM00363,Alto da Colina,Rua da Escola - Alto da Colina,urbana,1,516,516.0,0,0,0,62,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100363,-3.62224,-39.503825
+FAM00364,Mundaú,Rua Principal,rural,4,237,59.25,0,0,0,37,Médio completo,Palha,Poço,Fossa rudimentar,0,NIS100364,-3.623697,-39.508421
+FAM00365,Angelim,Rua Nova,urbana,2,192,96.0,1,1,1,30,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100365,-3.619757,-39.500226
+FAM00366,Angelim,Avenida Central - Angelim,urbana,2,1077,538.5,0,0,0,18,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100366,-3.62184,-39.500212
+FAM00367,Carrapato,Rua do Mercado,rural,5,324,64.8,1,0,0,33,Médio completo,Taipa revestida,Poço,Fossa séptica,0,NIS100367,-3.629952,-39.512599
+FAM00368,Casinhas,Rua Principal - Casinhas,urbana,4,392,98.0,1,0,0,28,Fundamental incompleto,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100368,-3.627316,-39.501043
+FAM00369,Itamaraty,Rua do Comércio,urbana,2,1634,817.0,0,0,0,18,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100369,-3.618537,-39.500354
+FAM00370,Belmonte,Travessa do Sol,rural,2,887,443.5,0,0,0,54,Fundamental incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100370,-3.631373,-39.507899
+FAM00371,Itamaraty,Rua 7 de Setembro,urbana,2,699,349.5,0,0,1,42,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100371,-3.620941,-39.501994
+FAM00372,Barreiros,Rua Principal - Barreiros,rural,5,1951,390.2,0,0,0,47,Médio completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100372,-3.629301,-39.50674
+FAM00373,Jenipapo,Travessa do Sol,rural,3,602,200.67,0,0,0,36,Fundamental incompleto,Palha,Poço,Fossa rudimentar,0,NIS100373,-3.624784,-39.512999
+FAM00374,Volta,Rua da Igreja - Volta,urbana,5,214,42.8,1,0,0,28,Superior incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100374,-3.623528,-39.49887
+FAM00375,Alto São João,Travessa do Sol - Alto São João,urbana,1,653,653.0,0,0,0,66,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100375,-3.624239,-39.501017
+FAM00376,Centro,Rua Nova - Centro,urbana,3,519,173.0,0,0,0,45,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100376,-3.621639,-39.504228
+FAM00377,Novo Angelim,Travessa do Sol - Novo Angelim,urbana,3,53,17.67,1,0,0,18,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100377,-3.623639,-39.502855
+FAM00378,Sítio Oiticica,Rua São Pedro,rural,4,323,80.75,1,0,0,42,Fundamental incompleto,Taipa não revestida,Cisterna,Fossa séptica,0,NIS100378,-3.618396,-39.505484
+FAM00379,São João,Rua Francisco Ferreira Fonteneles - São João,rural,4,271,67.75,0,0,1,18,Médio completo,Palha,Cisterna,Fossa rudimentar,0,NIS100379,-3.61697,-39.508861
+FAM00380,Lajedos,Travessa do Sol - Lajedos,urbana,6,157,26.17,1,0,0,35,Fundamental completo,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100380,-3.626957,-39.504045
+FAM00381,Ouro,Rua Francisco Ferreira Fonteneles,rural,3,2058,686.0,0,0,0,51,Superior incompleto,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100381,-3.623017,-39.509059
+FAM00382,Ferrão,Rua da Escola - Ferrão,rural,2,1457,728.5,0,0,0,44,Superior completo,Taipa não revestida,Poço,Vala a céu aberto,0,NIS100382,-3.625055,-39.509967
+FAM00383,Sítio Oiticica,Travessa do Sol - Sítio Oiticica,rural,5,519,103.8,0,0,0,32,Não sabe ler/escrever,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100383,-3.620254,-39.506509
+FAM00384,Novo Angelim,Rua da Igreja - Novo Angelim,urbana,4,4045,1011.25,0,0,0,37,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100384,-3.62575,-39.503829
+FAM00385,Serra do Sítio,Rua 7 de Setembro - Serra do Sítio,rural,3,274,91.33,0,0,0,50,Fundamental incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100385,-3.620887,-39.506527
+FAM00386,Casinhas,Rua Nossa Senhora - Casinhas,urbana,6,330,55.0,0,0,1,34,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100386,-3.625912,-39.499766
+FAM00387,Retiro,Rua do Mercado - Retiro,rural,2,1011,505.5,0,0,0,25,Médio completo,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100387,-3.619516,-39.508775
+FAM00388,Alto da Colina,Rua José de Alencar - Alto da Colina,urbana,3,4895,1631.67,0,0,0,51,Não sabe ler/escrever,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100388,-3.622616,-39.504957
+FAM00389,Alto da Colina,Rua da Escola - Alto da Colina,urbana,5,77,15.4,1,0,1,57,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100389,-3.621885,-39.505639
+FAM00390,Jenipapo,Rua José de Alencar,rural,5,620,124.0,1,0,0,33,Fundamental completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100390,-3.627009,-39.512189
+FAM00391,Centro,Travessa do Sol - Centro,urbana,6,1212,202.0,0,0,0,76,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100391,-3.621434,-39.504122
+FAM00392,Volta,Rua do Cruzeiro - Volta,urbana,2,230,115.0,1,0,0,50,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100392,-3.622812,-39.498478
+FAM00393,Novo Angelim,Rua 7 de Setembro,urbana,4,705,176.25,1,0,1,29,Fundamental completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100393,-3.623398,-39.503406
+FAM00394,Itamaraty,Rua do Estádio - Itamaraty,urbana,6,651,108.5,1,0,0,51,Médio completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100394,-3.620613,-39.501398
+FAM00395,Alto São João,Rua do Mercado - Alto São João,urbana,3,746,248.67,0,0,0,46,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100395,-3.626623,-39.50078
+FAM00396,Itamaraty,Rua São Pedro - Itamaraty,urbana,5,783,156.6,1,0,0,36,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100396,-3.619174,-39.50006
+FAM00397,Casinhas,Rua Francisco Ferreira Fonteneles,urbana,5,1351,270.2,0,0,0,34,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100397,-3.626123,-39.499611
+FAM00398,Novo Angelim,Rua São Pedro - Novo Angelim,urbana,5,636,127.2,1,0,0,45,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100398,-3.625175,-39.503205
+FAM00399,Lajedos,Rua do Cruzeiro - Lajedos,urbana,7,419,59.86,1,0,0,61,Fundamental incompleto,Madeira,Rede geral,Rede coletora,0,NIS100399,-3.624694,-39.503615
+FAM00400,Centro,Rua Principal,urbana,5,116,23.2,1,0,0,32,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100400,-3.622566,-39.505124
+FAM00401,Novo Angelim,Rua do Comércio - Novo Angelim,urbana,5,729,145.8,1,0,0,37,Fundamental incompleto,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100401,-3.624645,-39.505594
+FAM00402,Alto São João,Rua do Comércio - Alto São João,urbana,5,711,142.2,1,0,0,46,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100402,-3.625226,-39.502432
+FAM00403,Centro,Rua da Escola - Centro,urbana,3,56,18.67,1,0,0,23,Médio completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100403,-3.62289,-39.504694
+FAM00404,Novo Angelim,Avenida Central,urbana,6,428,71.33,1,0,0,67,Fundamental completo,Outra,Cisterna,Rede coletora,0,NIS100404,-3.623528,-39.50337
+FAM00405,Barreiros,Rua José de Alencar - Barreiros,rural,3,187,62.33,1,0,0,47,Superior completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100405,-3.629877,-39.506887
+FAM00406,Volta,Avenida Central,urbana,6,1317,219.5,1,0,0,21,Fundamental incompleto,Madeira,Rede geral,Rede coletora,0,NIS100406,-3.6246,-39.499834
+FAM00407,Novo Angelim,Rua da Escola,urbana,4,594,148.5,1,0,0,31,Fundamental incompleto,Madeira,Rede geral,Rede coletora,0,NIS100407,-3.624752,-39.505369
+FAM00408,Sítio Oiticica,Rua do Estádio,rural,3,204,68.0,0,0,0,36,Fundamental completo,Taipa não revestida,Rede geral,Vala a céu aberto,1,NIS100408,-3.619995,-39.508329
+FAM00409,Novo Angelim,Rua da Escola - Novo Angelim,urbana,1,151,151.0,0,0,0,53,Não sabe ler/escrever,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100409,-3.62522,-39.503934
+FAM00410,Bela Vista,Rua José de Alencar,urbana,4,909,227.25,0,0,0,40,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100410,-3.621344,-39.503102
+FAM00411,Centro,Rua 7 de Setembro - Centro,urbana,7,83,11.86,1,0,0,38,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100411,-3.622167,-39.505126
+FAM00412,Pedra Furada,Rua Francisco Ferreira Fonteneles - Pedra Furada,rural,5,47,9.4,0,0,0,23,Não sabe ler/escrever,Palha,Poço,Fossa rudimentar,0,NIS100412,-3.622973,-39.508747
+FAM00413,Volta,Rua Nova - Volta,urbana,6,1748,291.33,0,0,0,25,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100413,-3.623247,-39.500818
+FAM00414,Santa Maria,Rua Principal,rural,6,279,46.5,1,0,0,18,Fundamental completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100414,-3.621278,-39.508051
+FAM00415,Centro,Rua Nossa Senhora,urbana,1,733,733.0,0,0,0,36,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100415,-3.62265,-39.505238
+FAM00416,Centro,Rua Nova,urbana,3,404,134.67,1,0,0,32,Médio completo,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100416,-3.62285,-39.50498
+FAM00417,Barreiros,Rua do Estádio - Barreiros,rural,4,148,37.0,1,0,0,71,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100417,-3.62935,-39.50641
+FAM00418,Açude dos Vianas,Rua São Pedro - Açude dos Vianas,rural,3,1273,424.33,1,0,0,41,Fundamental completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100418,-3.627453,-39.501911
+FAM00419,Baixa Grande,Rua Nova,rural,2,335,167.5,1,0,0,43,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100419,-3.629183,-39.503987
+FAM00420,Itamaraty,Rua José de Alencar,urbana,3,349,116.33,1,0,0,63,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100420,-3.620955,-39.500276
+FAM00421,Bela Vista,Rua São Pedro - Bela Vista,urbana,6,134,22.33,0,0,0,51,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100421,-3.619816,-39.502787
+FAM00422,Barreiros,Rua José de Alencar - Barreiros,rural,5,1066,213.2,1,0,0,44,Fundamental incompleto,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100422,-3.629498,-39.508828
+FAM00423,São João,Rua da Escola - São João,rural,4,855,213.75,1,0,0,47,Fundamental completo,Palha,Poço,Vala a céu aberto,0,NIS100423,-3.618462,-39.508173
+FAM00424,Volta,Rua do Comércio,urbana,5,370,74.0,1,0,0,49,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100424,-3.623589,-39.499353
+FAM00425,Retiro,Rua São Pedro - Retiro,rural,3,448,149.33,0,0,0,19,Médio completo,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100425,-3.620141,-39.51313
+FAM00426,Serra do Sítio,Rua 7 de Setembro,rural,3,571,190.33,1,0,0,52,Fundamental incompleto,Taipa não revestida,Cisterna,Fossa séptica,0,NIS100426,-3.62092,-39.507479
+FAM00427,Apertada Hora,Rua Nossa Senhora,rural,3,518,172.67,0,0,0,26,Fundamental incompleto,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100427,-3.628826,-39.506357
+FAM00428,Itamaraty,Rua da Escola,urbana,4,637,159.25,0,0,0,43,Superior incompleto,Madeira,Rede geral,Rede coletora,0,NIS100428,-3.620306,-39.500046
+FAM00429,Bela Vista,Rua São Pedro - Bela Vista,urbana,1,80,80.0,0,0,0,49,Fundamental completo,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100429,-3.619858,-39.502427
+FAM00430,Centro,Rua do Mercado,urbana,6,405,67.5,1,0,0,47,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100430,-3.622242,-39.505841
+FAM00431,Angelim,Rua São Pedro - Angelim,urbana,3,540,180.0,0,0,0,46,Não sabe ler/escrever,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100431,-3.622496,-39.502578
+FAM00432,Novo Angelim,Travessa do Sol - Novo Angelim,urbana,4,547,136.75,0,0,0,41,Médio completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100432,-3.622979,-39.504749
+FAM00433,Alto da Colina,Rua Principal - Alto da Colina,urbana,3,1176,392.0,0,1,1,32,Não sabe ler/escrever,Outra,Rede geral,Rede coletora,0,NIS100433,-3.622299,-39.503763
+FAM00434,Lajedos,Rua 7 de Setembro - Lajedos,urbana,4,347,86.75,0,0,0,44,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100434,-3.627011,-39.50451
+FAM00435,Alto da Colina,Rua Principal - Alto da Colina,urbana,5,908,181.6,0,0,0,42,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100435,-3.623211,-39.50379
+FAM00436,Angelim,Rua do Estádio - Angelim,urbana,2,693,346.5,0,0,0,51,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100436,-3.621731,-39.500144
+FAM00437,Lajedos,Rua Nossa Senhora,urbana,2,517,258.5,0,0,0,30,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100437,-3.626375,-39.5055
+FAM00438,Apertada Hora,Rua Nossa Senhora - Apertada Hora,rural,5,101,20.2,1,0,1,46,Não sabe ler/escrever,Taipa revestida,Cisterna,Fossa séptica,0,NIS100438,-3.630122,-39.505202
+FAM00439,Prata dos Galdinos,Rua Nossa Senhora,rural,2,133,66.5,1,0,0,68,Fundamental completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100439,-3.621014,-39.511642
+FAM00440,Centro,Avenida Central - Centro,urbana,4,242,60.5,1,0,0,38,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100440,-3.622451,-39.505324
+FAM00441,Casinhas,Travessa do Sol - Casinhas,urbana,4,145,36.25,1,0,0,59,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100441,-3.628298,-39.498217
+FAM00442,Volta,Rua Principal - Volta,urbana,4,936,234.0,0,0,0,38,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100442,-3.623375,-39.498345
+FAM00443,Casinhas,Rua do Cruzeiro - Casinhas,urbana,5,82,16.4,0,0,0,32,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100443,-3.627054,-39.500783
+FAM00444,Volta,Rua Francisco Ferreira Fonteneles - Volta,urbana,6,344,57.33,0,0,0,48,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100444,-3.62274,-39.49927
+FAM00445,Sobradinho,Travessa do Sol,rural,1,619,619.0,0,0,0,29,Médio completo,Taipa revestida,Poço,Fossa séptica,0,NIS100445,-3.61852,-39.505737
+FAM00446,Alto São João,Rua Principal - Alto São João,urbana,4,360,90.0,1,0,0,39,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100446,-3.625151,-39.501479
+FAM00447,Novo Angelim,Avenida Central - Novo Angelim,urbana,5,928,185.6,0,0,0,34,Médio completo,Madeira,Rede geral,Fossa séptica,0,NIS100447,-3.623002,-39.503267
+FAM00448,Santa Maria,Rua do Mercado,rural,2,494,247.0,0,0,0,67,Médio completo,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100448,-3.620263,-39.507686
+FAM00449,Sítio Pirapora,Rua José de Alencar,rural,5,536,107.2,0,0,0,27,Fundamental completo,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100449,-3.622351,-39.504991
+FAM00450,Itamaraty,Travessa do Sol,urbana,3,196,65.33,1,0,0,49,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100450,-3.619061,-39.501496
+FAM00451,Bananal,Rua 7 de Setembro - Bananal,rural,6,171,28.5,0,0,0,45,Médio completo,Taipa não revestida,Cisterna,Vala a céu aberto,0,NIS100451,-3.627537,-39.506174
+FAM00452,Casinhas,Rua do Cruzeiro,urbana,2,474,237.0,1,0,0,36,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100452,-3.625999,-39.499072
+FAM00453,Bom Jesus,Rua São Pedro,rural,4,358,89.5,1,0,0,43,Fundamental completo,Palha,Poço,Fossa rudimentar,0,NIS100453,-3.626564,-39.506229
+FAM00454,Sítio Pau Alto,Rua do Mercado - Sítio Pau Alto,rural,4,1967,491.75,0,0,0,48,Superior completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100454,-3.618118,-39.504369
+FAM00455,Casinhas,Rua Nossa Senhora,urbana,2,362,181.0,1,0,0,49,Fundamental completo,Madeira,Rede geral,Rede coletora,0,NIS100455,-3.628156,-39.498553
+FAM00456,Alto São João,Rua José de Alencar - Alto São João,urbana,4,603,150.75,0,0,1,64,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100456,-3.625023,-39.501545
+FAM00457,Novo Angelim,Rua do Estádio,urbana,1,705,705.0,0,1,0,45,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100457,-3.624137,-39.504111
+FAM00458,Serra do Sítio,Rua São Pedro - Serra do Sítio,rural,5,579,115.8,0,0,0,31,Fundamental incompleto,Palha,Poço,Fossa rudimentar,0,NIS100458,-3.620799,-39.507854
+FAM00459,Angelim,Avenida Central - Angelim,urbana,3,230,76.67,1,0,0,54,Médio completo,Madeira,Rede geral,Rede coletora,0,NIS100459,-3.62365,-39.503041
+FAM00460,Alto da Colina,Rua do Estádio,urbana,4,200,50.0,1,0,0,53,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100460,-3.622942,-39.503
+FAM00461,Bela Vista,Rua da Escola,urbana,1,1628,1628.0,0,0,0,72,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100461,-3.61999,-39.502376
+FAM00462,Alto São João,Rua Nova - Alto São João,urbana,3,130,43.33,1,0,0,36,Fundamental completo,Alvenaria com revestimento,Cisterna,Vala a céu aberto,0,NIS100462,-3.624152,-39.501659
+FAM00463,Sítio Oiticica,Rua José de Alencar - Sítio Oiticica,rural,4,147,36.75,0,0,0,36,Médio completo,Taipa revestida,Poço,Fossa séptica,0,NIS100463,-3.619285,-39.507304
+FAM00464,Prata dos Galdinos,Rua São Pedro,rural,6,193,32.17,1,0,0,41,Não sabe ler/escrever,Taipa revestida,Cisterna,Fossa séptica,0,NIS100464,-3.621925,-39.511022
+FAM00465,Novo Angelim,Avenida Central - Novo Angelim,urbana,1,131,131.0,1,0,0,56,Superior completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100465,-3.622078,-39.501526
+FAM00466,Açude dos Vianas,Rua José de Alencar - Açude dos Vianas,rural,4,3442,860.5,0,0,0,18,Médio completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100466,-3.62775,-39.501231
+FAM00467,Volta,Rua do Comércio,urbana,5,107,21.4,0,0,1,41,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100467,-3.623597,-39.501924
+FAM00468,Ouro,Rua Nova - Ouro,rural,4,1005,251.25,1,0,0,26,Fundamental incompleto,Taipa revestida,Poço,Fossa séptica,0,NIS100468,-3.624578,-39.510886
+FAM00469,Ferrão,Rua Nossa Senhora,rural,4,164,41.0,1,0,0,30,Fundamental incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100469,-3.626948,-39.509177
+FAM00470,Bom Jesus,Avenida Central,rural,7,564,80.57,1,0,0,33,Não sabe ler/escrever,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100470,-3.626997,-39.508811
+FAM00471,Angelim,Rua do Mercado - Angelim,urbana,3,459,153.0,1,0,0,35,Médio completo,Outra,Rede geral,Rede coletora,0,NIS100471,-3.621914,-39.500567
+FAM00472,Lajedos,Rua 7 de Setembro - Lajedos,urbana,5,370,74.0,1,0,0,21,Médio completo,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100472,-3.626125,-39.504411
+FAM00473,Angelim,Rua da Igreja - Angelim,urbana,6,649,108.17,1,0,0,34,Médio completo,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100473,-3.623019,-39.500374
+FAM00474,Açude dos Vianas,Rua da Igreja - Açude dos Vianas,rural,5,430,86.0,1,0,0,63,Fundamental completo,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100474,-3.628001,-39.501982
+FAM00475,Alto da Colina,Rua Principal,urbana,3,155,51.67,0,0,0,52,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100475,-3.623852,-39.503797
+FAM00476,Belmonte,Rua 7 de Setembro - Belmonte,rural,6,1183,197.17,1,0,0,50,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100476,-3.63299,-39.508678
+FAM00477,Novo Angelim,Rua José de Alencar - Novo Angelim,urbana,4,2031,507.75,0,0,0,33,Médio completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100477,-3.624629,-39.503581
+FAM00478,Pedra Furada,Rua Nossa Senhora,rural,7,3258,465.43,0,0,0,22,Superior completo,Taipa não revestida,Rede geral,Fossa rudimentar,0,NIS100478,-3.623623,-39.509302
+FAM00479,Belmonte,Rua 7 de Setembro,rural,2,2279,1139.5,0,0,0,41,Médio completo,Taipa não revestida,Poço,Vala a céu aberto,0,NIS100479,-3.630797,-39.509728
+FAM00480,Alto São João,Rua do Cruzeiro,urbana,2,154,77.0,1,0,0,54,Não sabe ler/escrever,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100480,-3.625725,-39.501323
+FAM00481,Alto São João,Rua José de Alencar,urbana,4,274,68.5,0,0,0,36,Médio completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100481,-3.623985,-39.501367
+FAM00482,Centro,Rua Principal,urbana,5,825,165.0,1,0,0,29,Fundamental completo,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100482,-3.621659,-39.504952
+FAM00483,Angelim,Rua Nova - Angelim,urbana,5,465,93.0,1,1,1,61,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100483,-3.6236,-39.502047
+FAM00484,Novo Angelim,Rua 7 de Setembro,urbana,4,1110,277.5,0,0,0,37,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100484,-3.624751,-39.504663
+FAM00485,Belmonte,Rua da Escola - Belmonte,rural,5,297,59.4,1,0,1,36,Não sabe ler/escrever,Taipa revestida,Poço,Fossa rudimentar,0,NIS100485,-3.632743,-39.507826
+FAM00486,Lajedos,Avenida Central,urbana,6,382,63.67,1,0,0,52,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100486,-3.62567,-39.504732
+FAM00487,Ouro,Rua da Igreja,rural,4,754,188.5,0,0,0,31,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100487,-3.622908,-39.511641
+FAM00488,Casinhas,Avenida Central,urbana,4,822,205.5,0,0,0,32,Não sabe ler/escrever,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100488,-3.626674,-39.500593
+FAM00489,Novo Angelim,Rua 7 de Setembro,urbana,4,93,23.25,0,0,0,22,Não sabe ler/escrever,Alvenaria com revestimento,Cisterna,Fossa séptica,1,NIS100489,-3.62435,-39.504196
+FAM00490,Pedra Furada,Avenida Central,rural,2,828,414.0,1,0,0,32,Médio completo,Palha,Cisterna,Fossa rudimentar,0,NIS100490,-3.623624,-39.510198
+FAM00491,Volta,Rua 7 de Setembro - Volta,urbana,4,122,30.5,1,0,1,63,Fundamental incompleto,Madeira,Rede geral,Fossa séptica,0,NIS100491,-3.623521,-39.498324
+FAM00492,Mundaú,Rua da Escola,rural,5,1766,353.2,0,0,0,37,Fundamental completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100492,-3.622425,-39.509839
+FAM00493,Canto Escuro,Rua da Escola - Canto Escuro,rural,6,142,23.67,1,0,0,45,Fundamental incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100493,-3.626672,-39.509225
+FAM00494,Alto da Colina,Rua Principal,urbana,4,79,19.75,1,0,0,24,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100494,-3.622013,-39.503262
+FAM00495,Alto da Colina,Avenida Central - Alto da Colina,urbana,7,1179,168.43,1,0,0,18,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100495,-3.622158,-39.503685
+FAM00496,Bela Vista,Rua 7 de Setembro - Bela Vista,urbana,4,521,130.25,1,0,0,19,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100496,-3.621306,-39.502385
+FAM00497,Casinhas,Rua Nossa Senhora - Casinhas,urbana,3,261,87.0,0,0,1,37,Superior completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100497,-3.627217,-39.499931
+FAM00498,São João,Rua do Comércio - São João,rural,3,843,281.0,0,0,0,26,Fundamental completo,Taipa revestida,Cisterna,Fossa séptica,0,NIS100498,-3.618224,-39.507063
+FAM00499,Barreiros,Rua Nova - Barreiros,rural,4,750,187.5,1,0,0,40,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa rudimentar,0,NIS100499,-3.629897,-39.507973
+FAM00500,Alto São João,Rua da Escola - Alto São João,urbana,6,314,52.33,0,0,0,45,Fundamental completo,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100500,-3.625257,-39.502402
+FAM00501,Lajedos,Rua Nossa Senhora - Lajedos,urbana,5,452,90.4,1,0,0,26,Superior incompleto,Alvenaria com revestimento,Cisterna,Vala a céu aberto,0,NIS100501,-3.625305,-39.504528
+FAM00502,Casinhas,Rua São Pedro - Casinhas,urbana,6,225,37.5,0,0,0,33,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100502,-3.629039,-39.501289
+FAM00503,Angelim,Rua Principal - Angelim,urbana,4,473,118.25,0,0,0,36,Médio completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100503,-3.621786,-39.501667
+FAM00504,Alto da Colina,Rua da Escola,urbana,5,189,37.8,1,0,0,65,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100504,-3.621244,-39.504567
+FAM00505,Alto da Colina,Avenida Central - Alto da Colina,urbana,5,350,70.0,0,0,0,47,Médio completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100505,-3.624494,-39.505176
+FAM00506,Itamaraty,Rua da Escola - Itamaraty,urbana,6,592,98.67,1,0,0,35,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100506,-3.619855,-39.500167
+FAM00507,Centro,Rua 7 de Setembro,urbana,6,492,82.0,1,0,0,41,Superior incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100507,-3.621826,-39.504593
+FAM00508,Casinhas,Rua do Comércio - Casinhas,urbana,5,950,190.0,0,0,0,23,Médio completo,Alvenaria com revestimento,Cisterna,Vala a céu aberto,0,NIS100508,-3.625618,-39.499881
+FAM00509,Angelim,Rua Francisco Ferreira Fonteneles,urbana,3,337,112.33,0,0,0,51,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100509,-3.621295,-39.500013
+FAM00510,Água Fria,Rua da Igreja - Água Fria,rural,3,624,208.0,0,0,0,18,Fundamental completo,Taipa não revestida,Poço,Fossa séptica,0,NIS100510,-3.630437,-39.504017
+FAM00511,Angelim,Rua 7 de Setembro - Angelim,urbana,2,421,210.5,1,0,0,56,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100511,-3.62433,-39.501598
+FAM00512,Itamaraty,Rua do Cruzeiro - Itamaraty,urbana,2,642,321.0,0,0,0,67,Fundamental incompleto,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100512,-3.620837,-39.501224
+FAM00513,Alto São João,Rua Principal,urbana,3,498,166.0,0,0,0,37,Fundamental completo,Outra,Rede geral,Rede coletora,0,NIS100513,-3.625255,-39.50323
+FAM00514,Sobradinho,Rua Francisco Ferreira Fonteneles - Sobradinho,rural,2,1059,529.5,0,0,0,50,Fundamental incompleto,Palha,Poço,Vala a céu aberto,0,NIS100514,-3.618653,-39.504962
+FAM00515,Lajedos,Rua da Escola - Lajedos,urbana,6,270,45.0,1,0,0,63,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100515,-3.626507,-39.504014
+FAM00516,Alto São João,Rua José de Alencar - Alto São João,urbana,4,117,29.25,1,0,1,18,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100516,-3.625995,-39.502043
+FAM00517,Mundaú,Avenida Central,rural,3,187,62.33,0,0,0,33,Fundamental completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100517,-3.625732,-39.509727
+FAM00518,Itamaraty,Rua Francisco Ferreira Fonteneles - Itamaraty,urbana,4,840,210.0,0,0,0,40,Fundamental incompleto,Outra,Rede geral,Fossa séptica,0,NIS100518,-3.621289,-39.498099
+FAM00519,Angelim,Rua do Estádio,urbana,2,937,468.5,0,0,0,46,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100519,-3.623616,-39.500733
+FAM00520,Alto São João,Rua Principal,urbana,5,381,76.2,1,0,0,58,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100520,-3.627082,-39.500421
+FAM00521,Bela Vista,Travessa do Sol - Bela Vista,urbana,2,1223,611.5,0,0,0,23,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100521,-3.618048,-39.502728
+FAM00522,Ouro,Rua Principal - Ouro,rural,4,335,83.75,1,0,0,50,Médio completo,Taipa revestida,Cisterna,Vala a céu aberto,0,NIS100522,-3.625039,-39.511435
+FAM00523,Lajedos,Rua do Cruzeiro - Lajedos,urbana,4,545,136.25,1,0,0,75,Médio completo,Madeira,Rede geral,Rede coletora,0,NIS100523,-3.626055,-39.504497
+FAM00524,Centro,Rua do Comércio - Centro,urbana,4,314,78.5,1,0,0,41,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100524,-3.621799,-39.504227
+FAM00525,Itamaraty,Rua Nossa Senhora - Itamaraty,urbana,3,251,83.67,1,0,0,43,Superior incompleto,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100525,-3.619909,-39.500627
+FAM00526,Prata dos Galdinos,Rua da Escola,rural,6,3713,618.83,0,0,0,18,Médio completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100526,-3.622783,-39.510341
+FAM00527,Bela Vista,Rua Nova,urbana,3,284,94.67,1,0,0,34,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100527,-3.619949,-39.503239
+FAM00528,Apertada Hora,Rua da Igreja,rural,3,114,38.0,0,0,0,49,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100528,-3.628751,-39.506337
+FAM00529,Novo Angelim,Rua São Pedro - Novo Angelim,urbana,4,1195,298.75,1,0,0,66,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100529,-3.623164,-39.50433
+FAM00530,Retiro,Rua Nossa Senhora - Retiro,rural,5,1574,314.8,0,0,0,61,Fundamental completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100530,-3.619962,-39.513798
+FAM00531,Lajedos,Rua Nova - Lajedos,urbana,2,2422,1211.0,0,0,0,44,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100531,-3.625998,-39.503953
+FAM00532,Casinhas,Travessa do Sol,urbana,1,159,159.0,1,0,0,54,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100532,-3.625505,-39.500838
+FAM00533,Alto São João,Rua do Mercado,urbana,4,296,74.0,1,0,0,46,Médio completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100533,-3.623945,-39.503439
+FAM00534,Mundaú,Rua da Escola - Mundaú,rural,5,297,59.4,1,0,0,42,Fundamental incompleto,Taipa não revestida,Rede geral,Vala a céu aberto,0,NIS100534,-3.625096,-39.508016
+FAM00535,Lajedos,Travessa do Sol - Lajedos,urbana,3,314,104.67,0,0,0,42,Fundamental incompleto,Madeira,Poço,Rede coletora,0,NIS100535,-3.626655,-39.503165
+FAM00536,Angelim,Rua São Pedro - Angelim,urbana,3,245,81.67,1,0,0,58,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100536,-3.621749,-39.501547
+FAM00537,Lajedos,Rua Francisco Ferreira Fonteneles - Lajedos,urbana,7,1433,204.71,0,0,0,18,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100537,-3.625735,-39.503138
+FAM00538,Lajedos,Rua 7 de Setembro - Lajedos,urbana,3,4376,1458.67,0,0,0,33,Superior completo,Madeira,Poço,Fossa séptica,0,NIS100538,-3.624003,-39.505304
+FAM00539,Apertada Hora,Rua Nossa Senhora,rural,3,560,186.67,0,0,0,65,Fundamental incompleto,Palha,Poço,Fossa séptica,0,NIS100539,-3.62888,-39.504047
+FAM00540,Barreiros,Rua do Cruzeiro - Barreiros,rural,3,114,38.0,1,0,0,18,Fundamental completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100540,-3.630217,-39.505361
+FAM00541,Barreiros,Rua da Escola,rural,5,709,141.8,0,0,0,40,Médio completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100541,-3.630031,-39.507692
+FAM00542,Bela Vista,Rua do Comércio,urbana,4,488,122.0,1,0,0,40,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100542,-3.619996,-39.501005
+FAM00543,Belmonte,Rua do Comércio - Belmonte,rural,4,972,243.0,0,0,0,41,Não sabe ler/escrever,Taipa não revestida,Cisterna,Fossa séptica,0,NIS100543,-3.630039,-39.508364
+FAM00544,Pedra Furada,Rua Principal - Pedra Furada,rural,2,1081,540.5,0,0,0,75,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa rudimentar,0,NIS100544,-3.62319,-39.508405
+FAM00545,Bananal,Rua Francisco Ferreira Fonteneles - Bananal,rural,1,489,489.0,0,0,0,28,Médio completo,Taipa revestida,Cisterna,Fossa séptica,0,NIS100545,-3.627845,-39.507269
+FAM00546,Novo Angelim,Rua José de Alencar,urbana,3,1244,414.67,0,0,0,31,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100546,-3.62542,-39.504365
+FAM00547,Lajedos,Rua José de Alencar - Lajedos,urbana,3,3222,1074.0,0,0,1,45,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100547,-3.626233,-39.50358
+FAM00548,Canto Escuro,Rua Francisco Ferreira Fonteneles,rural,4,355,88.75,0,0,0,59,Fundamental incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100548,-3.628303,-39.511066
+FAM00549,Belmonte,Rua da Escola - Belmonte,rural,5,340,68.0,1,0,0,33,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100549,-3.631416,-39.507263
+FAM00550,São João,Rua da Escola,rural,3,629,209.67,0,0,0,54,Fundamental completo,Taipa revestida,Rede geral,Fossa séptica,0,NIS100550,-3.615951,-39.509349
+FAM00551,Alto São João,Rua Principal - Alto São João,urbana,4,2932,733.0,0,0,0,35,Fundamental completo,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100551,-3.6256,-39.502301
+FAM00552,Santa Úrsula,Rua Nova - Santa Úrsula,rural,2,795,397.5,1,0,0,48,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Fossa rudimentar,0,NIS100552,-3.618516,-39.508771
+FAM00553,Bom Jesus,Rua Nossa Senhora - Bom Jesus,rural,5,1027,205.4,0,0,0,27,Fundamental completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100553,-3.627132,-39.507329
+FAM00554,Lajedos,Rua do Cruzeiro - Lajedos,urbana,7,246,35.14,1,0,0,62,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100554,-3.626105,-39.504996
+FAM00555,Alto da Colina,Travessa do Sol - Alto da Colina,urbana,2,163,81.5,1,0,0,42,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100555,-3.622835,-39.502895
+FAM00556,Bela Vista,Rua da Igreja - Bela Vista,urbana,7,256,36.57,1,0,0,55,Médio completo,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100556,-3.621625,-39.502065
+FAM00557,Alto da Colina,Rua do Cruzeiro,urbana,2,393,196.5,0,0,0,36,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100557,-3.623249,-39.504051
+FAM00558,Baixa Grande,Rua do Mercado - Baixa Grande,rural,3,686,228.67,0,0,0,53,Fundamental incompleto,Palha,Poço,Fossa séptica,0,NIS100558,-3.633329,-39.504814
+FAM00559,Angelim,Rua do Estádio,urbana,6,356,59.33,1,1,0,50,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100559,-3.623098,-39.50236
+FAM00560,Itamaraty,Rua Principal - Itamaraty,urbana,3,767,255.67,0,0,0,26,Fundamental completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100560,-3.620868,-39.502901
+FAM00561,Centro,Rua do Comércio,urbana,3,569,189.67,0,0,0,24,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100561,-3.620809,-39.506212
+FAM00562,Sítio Pau Alto,Rua da Escola,rural,2,1188,594.0,0,0,0,40,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa rudimentar,0,NIS100562,-3.616021,-39.50485
+FAM00563,Lajedos,Rua 7 de Setembro - Lajedos,urbana,2,155,77.5,0,0,0,23,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100563,-3.624983,-39.502476
+FAM00564,Sítio Pirapora,Rua São Pedro,rural,2,2796,1398.0,0,0,0,42,Fundamental completo,Palha,Poço,Fossa séptica,0,NIS100564,-3.620039,-39.505525
+FAM00565,Angelim,Rua José de Alencar - Angelim,urbana,2,434,217.0,0,0,0,34,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100565,-3.623192,-39.502811
+FAM00566,Bela Vista,Rua José de Alencar,urbana,4,693,173.25,1,0,0,33,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100566,-3.619526,-39.502158
+FAM00567,São João,Rua da Escola - São João,rural,3,1098,366.0,0,0,0,56,Fundamental incompleto,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100567,-3.618435,-39.508982
+FAM00568,Novo Angelim,Rua da Escola,urbana,3,1160,386.67,0,0,0,18,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100568,-3.624745,-39.503442
+FAM00569,Casinhas,Rua da Igreja - Casinhas,urbana,3,369,123.0,1,0,0,28,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100569,-3.624098,-39.499045
+FAM00570,Ouro,Rua José de Alencar - Ouro,rural,4,615,153.75,1,0,1,60,Fundamental incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100570,-3.622121,-39.511801
+FAM00571,Bela Vista,Rua São Pedro - Bela Vista,urbana,3,848,282.67,0,0,0,43,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100571,-3.621712,-39.503884
+FAM00572,Centro,Rua do Mercado,urbana,7,78,11.14,0,0,0,25,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100572,-3.620901,-39.503984
+FAM00573,Novo Angelim,Rua 7 de Setembro - Novo Angelim,urbana,1,78,78.0,1,0,0,32,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100573,-3.623837,-39.504199
+FAM00574,Carrapato,Rua São Pedro - Carrapato,rural,5,277,55.4,0,0,0,47,Superior completo,Palha,Poço,Fossa rudimentar,0,NIS100574,-3.628511,-39.509924
+FAM00575,Bom Jesus,Rua Francisco Ferreira Fonteneles - Bom Jesus,rural,3,178,59.33,1,0,0,54,Médio completo,Palha,Poço,Fossa rudimentar,0,NIS100575,-3.627632,-39.508607
+FAM00576,Bela Vista,Rua Nova,urbana,2,971,485.5,0,0,0,43,Fundamental incompleto,Outra,Cisterna,Fossa séptica,0,NIS100576,-3.621429,-39.501646
+FAM00577,Lajedos,Rua São Pedro - Lajedos,urbana,5,3573,714.6,0,0,0,18,Superior completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100577,-3.626182,-39.503823
+FAM00578,Centro,Rua Nossa Senhora - Centro,urbana,1,541,541.0,0,0,0,18,Fundamental completo,Madeira,Rede geral,Rede coletora,0,NIS100578,-3.620375,-39.504333
+FAM00579,Santa Úrsula,Rua do Estádio,rural,8,200,25.0,1,0,0,43,Médio completo,Taipa revestida,Cisterna,Vala a céu aberto,0,NIS100579,-3.618591,-39.5082
+FAM00580,Bom Jesus,Rua São Pedro - Bom Jesus,rural,4,442,110.5,0,0,0,62,Fundamental completo,Palha,Cisterna,Fossa rudimentar,1,NIS100580,-3.627196,-39.507285
+FAM00581,Água Fria,Rua Nossa Senhora,rural,6,278,46.33,0,0,0,46,Fundamental completo,Palha,Poço,Fossa séptica,0,NIS100581,-3.629658,-39.500782
+FAM00582,Itamaraty,Rua José de Alencar - Itamaraty,urbana,3,587,195.67,1,0,0,39,Fundamental completo,Madeira,Poço,Fossa séptica,0,NIS100582,-3.620056,-39.502493
+FAM00583,Casinhas,Rua do Cruzeiro - Casinhas,urbana,4,1769,442.25,0,0,1,30,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100583,-3.627398,-39.500786
+FAM00584,Mundaú,Rua do Mercado - Mundaú,rural,5,1186,237.2,0,0,1,55,Fundamental incompleto,Palha,Cisterna,Vala a céu aberto,0,NIS100584,-3.624761,-39.508625
+FAM00585,Bom Jesus,Rua do Comércio - Bom Jesus,rural,2,200,100.0,0,0,0,72,Superior incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100585,-3.627797,-39.50766
+FAM00586,Lajedos,Travessa do Sol,urbana,6,404,67.33,0,0,0,37,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100586,-3.626779,-39.50468
+FAM00587,Alto São João,Rua Principal - Alto São João,urbana,4,838,209.5,0,0,0,18,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100587,-3.623761,-39.499602
+FAM00588,Alto São João,Avenida Central - Alto São João,urbana,4,2294,573.5,0,0,0,49,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100588,-3.624002,-39.501562
+FAM00589,Jenipapo,Avenida Central,rural,3,115,38.33,0,0,1,54,Superior incompleto,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100589,-3.624832,-39.513235
+FAM00590,Volta,Rua do Cruzeiro,urbana,6,438,73.0,0,0,0,50,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100590,-3.62264,-39.498653
+FAM00591,Apertada Hora,Rua do Estádio,rural,6,511,85.17,1,0,0,18,Não sabe ler/escrever,Taipa revestida,Poço,Fossa rudimentar,1,NIS100591,-3.629583,-39.504143
+FAM00592,Bananal,Avenida Central,rural,5,645,129.0,1,0,0,52,Fundamental incompleto,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100592,-3.626611,-39.504944
+FAM00593,Novo Angelim,Rua 7 de Setembro - Novo Angelim,urbana,5,1117,223.4,0,0,0,40,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100593,-3.625814,-39.502948
+FAM00594,Alto São João,Rua da Escola,urbana,5,503,100.6,1,0,0,65,Médio completo,Madeira,Poço,Rede coletora,0,NIS100594,-3.623936,-39.499405
+FAM00595,Santa Úrsula,Travessa do Sol - Santa Úrsula,rural,1,1909,1909.0,0,0,0,52,Fundamental completo,Palha,Poço,Fossa rudimentar,0,NIS100595,-3.618307,-39.508269
+FAM00596,Casinhas,Rua Francisco Ferreira Fonteneles - Casinhas,urbana,7,581,83.0,1,0,0,42,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100596,-3.626892,-39.498
+FAM00597,Alto São João,Rua Principal - Alto São João,urbana,2,240,120.0,0,0,1,45,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100597,-3.623649,-39.500597
+FAM00598,Carrapato,Rua da Escola - Carrapato,rural,4,298,74.5,1,0,1,41,Não sabe ler/escrever,Taipa revestida,Cisterna,Fossa séptica,0,NIS100598,-3.627852,-39.51081
+FAM00599,Carrapato,Rua Principal - Carrapato,rural,6,1099,183.17,1,0,0,38,Fundamental incompleto,Taipa revestida,Poço,Fossa séptica,0,NIS100599,-3.627009,-39.510402
+FAM00600,Novo Angelim,Rua do Estádio - Novo Angelim,urbana,6,404,67.33,1,0,0,27,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100600,-3.624785,-39.501891
+FAM00601,Paraíso,Rua do Estádio,rural,5,60,12.0,1,0,0,33,Fundamental incompleto,Palha,Poço,Vala a céu aberto,0,NIS100601,-3.621775,-39.512439
+FAM00602,Centro,Rua do Cruzeiro - Centro,urbana,4,305,76.25,1,0,1,29,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100602,-3.621611,-39.505618
+FAM00603,Sobradinho,Rua da Igreja,rural,4,729,182.25,0,0,1,18,Fundamental incompleto,Palha,Cisterna,Vala a céu aberto,0,NIS100603,-3.620366,-39.504951
+FAM00604,Alto São João,Travessa do Sol - Alto São João,urbana,6,1770,295.0,1,0,0,40,Fundamental completo,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100604,-3.624847,-39.502026
+FAM00605,Água Fria,Rua Nova - Água Fria,rural,5,893,178.6,0,0,0,39,Não sabe ler/escrever,Taipa não revestida,Poço,Vala a céu aberto,0,NIS100605,-3.631996,-39.502589
+FAM00606,Casinhas,Avenida Central - Casinhas,urbana,3,679,226.33,0,0,0,41,Fundamental incompleto,Madeira,Rede geral,Rede coletora,0,NIS100606,-3.627708,-39.500049
+FAM00607,Retiro,Rua Nossa Senhora - Retiro,rural,4,418,104.5,0,0,0,70,Superior completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100607,-3.618774,-39.51264
+FAM00608,Ouro,Rua do Cruzeiro - Ouro,rural,6,539,89.83,1,0,0,39,Fundamental completo,Taipa não revestida,Poço,Fossa séptica,1,NIS100608,-3.624603,-39.512118
+FAM00609,Alto São João,Rua Nossa Senhora - Alto São João,urbana,4,699,174.75,1,0,0,51,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100609,-3.625105,-39.502541
+FAM00610,Centro,Rua Nova,urbana,6,312,52.0,0,0,0,18,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100610,-3.622337,-39.503362
+FAM00611,Angelim,Rua da Igreja,urbana,6,1401,233.5,0,0,0,35,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100611,-3.62278,-39.502912
+FAM00612,Baixa Grande,Rua do Mercado,rural,5,198,39.6,0,0,0,53,Médio completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100612,-3.63044,-39.502932
+FAM00613,Angelim,Rua José de Alencar,urbana,4,511,127.75,1,0,0,72,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100613,-3.623912,-39.501243
+FAM00614,São João,Rua José de Alencar,rural,3,646,215.33,0,0,0,39,Médio completo,Palha,Poço,Fossa rudimentar,0,NIS100614,-3.617135,-39.508431
+FAM00615,Bela Vista,Rua Francisco Ferreira Fonteneles,urbana,2,392,196.0,0,0,0,45,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100615,-3.619659,-39.502037
+FAM00616,Santa Maria,Rua São Pedro,rural,3,250,83.33,0,0,0,63,Fundamental completo,Taipa não revestida,Rede geral,Fossa séptica,0,NIS100616,-3.622621,-39.509659
+FAM00617,Alto da Colina,Rua 7 de Setembro - Alto da Colina,urbana,4,742,185.5,0,0,0,42,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100617,-3.623249,-39.503415
+FAM00618,Bananal,Rua da Escola - Bananal,rural,3,485,161.67,0,1,1,32,Fundamental incompleto,Taipa revestida,Cisterna,Fossa séptica,0,NIS100618,-3.628696,-39.505233
+FAM00619,Casinhas,Rua Francisco Ferreira Fonteneles - Casinhas,urbana,3,652,217.33,1,0,1,27,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100619,-3.627136,-39.498515
+FAM00620,Casinhas,Travessa do Sol - Casinhas,urbana,5,285,57.0,1,0,0,36,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100620,-3.624845,-39.499512
+FAM00621,Aguaí,Rua Nova - Aguaí,rural,4,744,186.0,1,0,0,62,Não sabe ler/escrever,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100621,-3.627452,-39.50514
+FAM00622,Bela Vista,Rua José de Alencar - Bela Vista,urbana,2,1815,907.5,0,0,0,51,Médio completo,Madeira,Rede geral,Vala a céu aberto,0,NIS100622,-3.618907,-39.501183
+FAM00623,Apertada Hora,Rua do Cruzeiro - Apertada Hora,rural,2,335,167.5,1,0,1,53,Superior completo,Taipa revestida,Rede geral,Fossa rudimentar,0,NIS100623,-3.628744,-39.503898
+FAM00624,Sítio Pirapora,Rua do Comércio,rural,3,945,315.0,0,0,0,38,Superior incompleto,Alvenaria com revestimento,Rede geral,Fossa rudimentar,0,NIS100624,-3.623343,-39.505177
+FAM00625,Alto São João,Rua do Mercado,urbana,5,691,138.2,1,0,0,35,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100625,-3.625852,-39.502097
+FAM00626,São João,Rua da Escola,rural,4,837,209.25,0,0,0,25,Médio completo,Palha,Cisterna,Fossa rudimentar,0,NIS100626,-3.617863,-39.509086
+FAM00627,Casinhas,Rua 7 de Setembro - Casinhas,urbana,4,1204,301.0,0,0,0,48,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100627,-3.625245,-39.500236
+FAM00628,Bom Jesus,Travessa do Sol - Bom Jesus,rural,4,466,116.5,1,0,0,55,Superior incompleto,Taipa revestida,Poço,Vala a céu aberto,0,NIS100628,-3.626671,-39.506564
+FAM00629,Alto São João,Rua José de Alencar,urbana,4,62,15.5,1,1,0,65,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100629,-3.625866,-39.501209
+FAM00630,Belmonte,Rua José de Alencar - Belmonte,rural,3,737,245.67,0,0,0,46,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100630,-3.63168,-39.508521
+FAM00631,Pedra Furada,Rua do Comércio - Pedra Furada,rural,5,598,119.6,1,0,0,39,Médio completo,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100631,-3.622919,-39.510026
+FAM00632,Guaribuna,Rua Nova - Guaribuna,rural,5,560,112.0,1,1,0,28,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Vala a céu aberto,0,NIS100632,-3.627481,-39.510167
+FAM00633,Lajedos,Rua da Igreja,urbana,5,115,23.0,1,0,0,23,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100633,-3.625854,-39.502288
+FAM00634,Itamaraty,Rua do Estádio - Itamaraty,urbana,2,261,130.5,1,0,0,52,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100634,-3.618217,-39.499902
+FAM00635,Bela Vista,Rua da Escola,urbana,2,245,122.5,1,0,0,58,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100635,-3.618209,-39.503276
+FAM00636,Novo Angelim,Avenida Central,urbana,4,286,71.5,1,0,0,33,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100636,-3.624802,-39.503161
+FAM00637,Casinhas,Rua da Escola - Casinhas,urbana,5,1386,277.2,0,0,0,33,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100637,-3.625809,-39.500335
+FAM00638,Centro,Rua da Escola,urbana,8,391,48.88,0,0,0,34,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100638,-3.621462,-39.50398
+FAM00639,Angelim,Rua do Estádio - Angelim,urbana,4,700,175.0,1,0,0,31,Fundamental completo,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100639,-3.622307,-39.501578
+FAM00640,Lajedos,Rua São Pedro,urbana,5,1406,281.2,0,0,0,40,Fundamental completo,Madeira,Rede geral,Rede coletora,0,NIS100640,-3.628132,-39.503807
+FAM00641,Santa Úrsula,Rua José de Alencar,rural,3,2416,805.33,0,0,0,48,Fundamental incompleto,Palha,Cisterna,Vala a céu aberto,0,NIS100641,-3.622161,-39.508482
+FAM00642,Itamaraty,Rua José de Alencar,urbana,4,755,188.75,1,0,0,38,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100642,-3.618265,-39.500523
+FAM00643,Casinhas,Rua José de Alencar - Casinhas,urbana,5,1549,309.8,0,0,0,19,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100643,-3.628241,-39.498137
+FAM00644,Volta,Avenida Central - Volta,urbana,6,178,29.67,1,0,0,50,Médio completo,Madeira,Rede geral,Rede coletora,0,NIS100644,-3.624203,-39.498744
+FAM00645,Pedra Furada,Rua Nossa Senhora - Pedra Furada,rural,4,163,40.75,1,0,1,34,Médio completo,Taipa não revestida,Poço,Vala a céu aberto,0,NIS100645,-3.62422,-39.510343
+FAM00646,Casinhas,Travessa do Sol,urbana,2,258,129.0,0,0,0,51,Fundamental incompleto,Madeira,Poço,Rede coletora,0,NIS100646,-3.629022,-39.50011
+FAM00647,Mundaú,Rua do Mercado - Mundaú,rural,2,2581,1290.5,0,0,0,54,Fundamental incompleto,Taipa não revestida,Rede geral,Fossa rudimentar,0,NIS100647,-3.622262,-39.510769
+FAM00648,Carrapato,Rua do Estádio - Carrapato,rural,6,144,24.0,1,0,0,28,Fundamental incompleto,Taipa revestida,Poço,Vala a céu aberto,0,NIS100648,-3.629472,-39.510478
+FAM00649,Barreiros,Rua 7 de Setembro,rural,3,1552,517.33,0,0,0,76,Fundamental incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100649,-3.62714,-39.506902
+FAM00650,Belmonte,Rua São Pedro - Belmonte,rural,6,603,100.5,1,0,0,49,Superior incompleto,Taipa não revestida,Rede geral,Fossa séptica,0,NIS100650,-3.631017,-39.509623
+FAM00651,Guaribuna,Rua Nova - Guaribuna,rural,3,1057,352.33,0,0,0,51,Superior incompleto,Palha,Poço,Vala a céu aberto,0,NIS100651,-3.624965,-39.511774
+FAM00652,Novo Angelim,Rua Francisco Ferreira Fonteneles - Novo Angelim,urbana,4,688,172.0,1,0,0,29,Médio completo,Outra,Rede geral,Rede coletora,0,NIS100652,-3.624092,-39.503073
+FAM00653,Volta,Rua 7 de Setembro - Volta,urbana,1,548,548.0,0,0,0,18,Fundamental completo,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100653,-3.623206,-39.499676
+FAM00654,Ouro,Rua 7 de Setembro - Ouro,rural,3,1854,618.0,0,0,0,53,Fundamental completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100654,-3.625928,-39.511694
+FAM00655,Sítio Pau Alto,Travessa do Sol,rural,5,666,133.2,1,0,0,48,Fundamental incompleto,Palha,Poço,Fossa séptica,0,NIS100655,-3.617347,-39.505921
+FAM00656,Novo Angelim,Rua do Cruzeiro,urbana,6,2134,355.67,0,0,1,44,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100656,-3.623213,-39.503565
+FAM00657,Sítio Pau Alto,Rua do Estádio - Sítio Pau Alto,rural,3,889,296.33,0,0,0,67,Fundamental incompleto,Taipa revestida,Cisterna,Fossa séptica,0,NIS100657,-3.619397,-39.50589
+FAM00658,Santa Maria,Rua do Comércio,rural,1,118,118.0,1,0,0,60,Fundamental completo,Palha,Poço,Vala a céu aberto,0,NIS100658,-3.621419,-39.507674
+FAM00659,Alto São João,Rua Francisco Ferreira Fonteneles - Alto São João,urbana,2,462,231.0,0,0,0,21,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Vala a céu aberto,0,NIS100659,-3.625556,-39.501423
+FAM00660,Baixa Grande,Rua da Igreja,rural,5,2410,482.0,1,0,0,54,Superior completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100660,-3.631467,-39.505616
+FAM00661,Prata dos Galdinos,Avenida Central - Prata dos Galdinos,rural,4,1917,479.25,0,0,1,20,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100661,-3.62197,-39.510542
+FAM00662,Sobradinho,Rua Principal - Sobradinho,rural,4,244,61.0,1,0,0,67,Fundamental completo,Taipa revestida,Poço,Fossa séptica,0,NIS100662,-3.620173,-39.505814
+FAM00663,Sobradinho,Rua do Estádio,rural,2,174,87.0,0,0,0,48,Fundamental completo,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100663,-3.619181,-39.504805
+FAM00664,Alto São João,Rua Principal - Alto São João,urbana,3,577,192.33,0,0,1,58,Médio completo,Madeira,Cisterna,Rede coletora,0,NIS100664,-3.626223,-39.50258
+FAM00665,Paraíso,Rua do Mercado - Paraíso,rural,5,651,130.2,1,0,0,51,Fundamental incompleto,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100665,-3.621994,-39.514766
+FAM00666,Mundaú,Rua Francisco Ferreira Fonteneles,rural,3,254,84.67,1,0,1,18,Médio completo,Taipa não revestida,Poço,Fossa séptica,0,NIS100666,-3.625686,-39.508727
+FAM00667,Itamaraty,Travessa do Sol - Itamaraty,urbana,4,730,182.5,0,0,0,31,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100667,-3.619724,-39.500812
+FAM00668,Sobradinho,Rua do Cruzeiro - Sobradinho,rural,3,295,98.33,0,0,0,18,Fundamental incompleto,Palha,Poço,Vala a céu aberto,0,NIS100668,-3.620686,-39.504703
+FAM00669,Baixa Grande,Rua Principal - Baixa Grande,rural,3,344,114.67,0,0,0,26,Médio completo,Taipa não revestida,Rede geral,Vala a céu aberto,1,NIS100669,-3.630417,-39.506555
+FAM00670,Ouro,Rua Nossa Senhora - Ouro,rural,2,557,278.5,0,0,0,45,Fundamental completo,Palha,Poço,Fossa séptica,0,NIS100670,-3.623348,-39.511607
+FAM00671,Bom Jesus,Avenida Central - Bom Jesus,rural,5,1020,204.0,0,0,0,40,Fundamental completo,Palha,Poço,Fossa rudimentar,0,NIS100671,-3.62706,-39.509543
+FAM00672,Lajedos,Rua 7 de Setembro,urbana,8,438,54.75,1,0,0,41,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100672,-3.625933,-39.504981
+FAM00673,Guaribuna,Rua do Cruzeiro - Guaribuna,rural,6,156,26.0,1,0,1,47,Fundamental completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100673,-3.626574,-39.510234
+FAM00674,Aguaí,Rua do Estádio - Aguaí,rural,5,1547,309.4,0,0,0,43,Fundamental incompleto,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100674,-3.626778,-39.503528
+FAM00675,Volta,Rua do Estádio,urbana,6,265,44.17,1,0,0,55,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100675,-3.62299,-39.500565
+FAM00676,Casinhas,Travessa do Sol - Casinhas,urbana,8,423,52.88,1,0,0,29,Fundamental incompleto,Madeira,Poço,Rede coletora,0,NIS100676,-3.626419,-39.500678
+FAM00677,Volta,Rua do Cruzeiro,urbana,2,2383,1191.5,0,0,0,33,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100677,-3.623748,-39.500591
+FAM00678,Alto São João,Rua do Estádio - Alto São João,urbana,5,934,186.8,0,0,1,41,Fundamental incompleto,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100678,-3.62459,-39.501852
+FAM00679,Pedra Furada,Rua Francisco Ferreira Fonteneles - Pedra Furada,rural,4,327,81.75,1,0,0,28,Fundamental incompleto,Taipa revestida,Poço,Vala a céu aberto,0,NIS100679,-3.622349,-39.508727
+FAM00680,Retiro,Rua Principal - Retiro,rural,3,549,183.0,1,0,0,31,Médio completo,Taipa revestida,Cisterna,Fossa séptica,0,NIS100680,-3.618591,-39.512017
+FAM00681,Belmonte,Rua do Cruzeiro - Belmonte,rural,4,1044,261.0,0,0,0,49,Fundamental incompleto,Palha,Poço,Fossa rudimentar,0,NIS100681,-3.630342,-39.509257
+FAM00682,Santa Úrsula,Rua do Mercado,rural,4,1321,330.25,0,0,0,44,Médio completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100682,-3.619906,-39.50909
+FAM00683,Angelim,Rua Nova,urbana,3,230,76.67,0,0,0,40,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100683,-3.622521,-39.501012
+FAM00684,Serra do Sítio,Rua Principal,rural,4,375,93.75,1,0,0,69,Médio completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100684,-3.620175,-39.507358
+FAM00685,Jenipapo,Rua Principal,rural,3,287,95.67,0,0,0,58,Fundamental incompleto,Taipa revestida,Poço,Vala a céu aberto,0,NIS100685,-3.626334,-39.513181
+FAM00686,Sítio Oiticica,Rua do Cruzeiro - Sítio Oiticica,rural,4,393,98.25,1,0,0,40,Não sabe ler/escrever,Taipa revestida,Poço,Fossa séptica,0,NIS100686,-3.618606,-39.506208
+FAM00687,Bela Vista,Rua José de Alencar - Bela Vista,urbana,4,361,90.25,1,0,0,74,Fundamental completo,Outra,Poço,Rede coletora,0,NIS100687,-3.619662,-39.504668
+FAM00688,Itamaraty,Rua 7 de Setembro - Itamaraty,urbana,6,799,133.17,0,0,0,43,Superior completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100688,-3.618994,-39.50039
+FAM00689,Canto Escuro,Rua do Mercado - Canto Escuro,rural,3,340,113.33,1,0,0,34,Superior incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100689,-3.630034,-39.509309
+FAM00690,Açude dos Vianas,Rua Francisco Ferreira Fonteneles - Açude dos Vianas,rural,2,220,110.0,1,0,0,58,Fundamental completo,Taipa revestida,Poço,Fossa séptica,0,NIS100690,-3.627498,-39.503708
+FAM00691,Volta,Rua Nossa Senhora - Volta,urbana,2,758,379.0,0,0,0,44,Superior completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100691,-3.623194,-39.499912
+FAM00692,Centro,Rua da Escola - Centro,urbana,2,484,242.0,1,0,0,57,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100692,-3.622041,-39.506552
+FAM00693,Volta,Avenida Central,urbana,4,1658,414.5,1,1,0,54,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100693,-3.623875,-39.499743
+FAM00694,Novo Angelim,Rua do Comércio,urbana,5,321,64.2,1,0,0,23,Fundamental completo,Alvenaria sem revestimento,Poço,Vala a céu aberto,0,NIS100694,-3.622417,-39.504388
+FAM00695,Alto da Colina,Rua da Igreja - Alto da Colina,urbana,1,382,382.0,0,0,0,36,Fundamental incompleto,Outra,Rede geral,Rede coletora,0,NIS100695,-3.621931,-39.502746
+FAM00696,Jenipapo,Rua São Pedro,rural,6,111,18.5,0,0,0,68,Fundamental completo,Palha,Poço,Vala a céu aberto,0,NIS100696,-3.626448,-39.514112
+FAM00697,Itamaraty,Rua do Comércio - Itamaraty,urbana,3,669,223.0,1,0,0,33,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100697,-3.621646,-39.500297
+FAM00698,Bananal,Rua Principal - Bananal,rural,6,243,40.5,1,0,0,69,Médio completo,Palha,Poço,Fossa rudimentar,0,NIS100698,-3.627187,-39.506269
+FAM00699,Lajedos,Rua do Estádio - Lajedos,urbana,4,412,103.0,1,0,0,43,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100699,-3.625169,-39.504157
+FAM00700,Guaribuna,Rua São Pedro,rural,4,533,133.25,0,0,0,27,Fundamental incompleto,Palha,Cisterna,Vala a céu aberto,0,NIS100700,-3.624956,-39.509486
+FAM00701,Santa Úrsula,Rua Nova - Santa Úrsula,rural,3,1353,451.0,1,0,0,48,Superior incompleto,Palha,Poço,Fossa séptica,1,NIS100701,-3.620495,-39.508582
+FAM00702,Alto São João,Rua do Mercado - Alto São João,urbana,4,2161,540.25,0,0,1,28,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100702,-3.626083,-39.499758
+FAM00703,Prata dos Galdinos,Rua do Comércio,rural,5,46,9.2,0,0,0,30,Não sabe ler/escrever,Alvenaria com revestimento,Cisterna,Fossa rudimentar,0,NIS100703,-3.620989,-39.511139
+FAM00704,Belmonte,Rua José de Alencar - Belmonte,rural,2,480,240.0,1,0,0,36,Fundamental incompleto,Palha,Poço,Fossa rudimentar,0,NIS100704,-3.630948,-39.50935
+FAM00705,Angelim,Rua José de Alencar - Angelim,urbana,3,312,104.0,1,0,1,55,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100705,-3.622542,-39.501471
+FAM00706,Angelim,Rua do Cruzeiro,urbana,7,324,46.29,0,0,0,53,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100706,-3.621292,-39.503006
+FAM00707,Centro,Rua do Mercado,urbana,4,465,116.25,1,0,0,53,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100707,-3.622176,-39.503886
+FAM00708,Sítio Pau Alto,Rua José de Alencar - Sítio Pau Alto,rural,5,440,88.0,0,0,0,39,Médio completo,Taipa não revestida,Rede geral,Fossa rudimentar,0,NIS100708,-3.616745,-39.506716
+FAM00709,Angelim,Rua do Cruzeiro,urbana,2,426,213.0,0,0,0,32,Fundamental completo,Madeira,Cisterna,Rede coletora,0,NIS100709,-3.624961,-39.501554
+FAM00710,Pedra Furada,Rua do Comércio - Pedra Furada,rural,6,120,20.0,1,0,0,45,Médio completo,Taipa não revestida,Poço,Fossa séptica,0,NIS100710,-3.622898,-39.50922
+FAM00711,Aguaí,Rua José de Alencar - Aguaí,rural,3,1421,473.67,0,0,0,23,Médio completo,Palha,Poço,Vala a céu aberto,0,NIS100711,-3.624963,-39.503884
+FAM00712,Ferrão,Rua São Pedro - Ferrão,rural,3,342,114.0,1,0,0,18,Fundamental completo,Taipa revestida,Rede geral,Fossa rudimentar,0,NIS100712,-3.624096,-39.507655
+FAM00713,Angelim,Rua do Cruzeiro - Angelim,urbana,2,1077,538.5,0,0,0,21,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100713,-3.622658,-39.501738
+FAM00714,Jenipapo,Rua 7 de Setembro,rural,4,276,69.0,0,0,0,55,Médio completo,Palha,Poço,Fossa rudimentar,0,NIS100714,-3.624754,-39.513241
+FAM00715,Bom Jesus,Rua José de Alencar,rural,3,3710,1236.67,0,0,0,26,Superior completo,Taipa revestida,Rede geral,Fossa rudimentar,0,NIS100715,-3.62748,-39.508065
+FAM00716,Angelim,Rua Nova - Angelim,urbana,5,229,45.8,1,0,0,45,Médio completo,Alvenaria com revestimento,Cisterna,Fossa séptica,1,NIS100716,-3.62321,-39.502147
+FAM00717,Novo Angelim,Rua do Estádio - Novo Angelim,urbana,2,1141,570.5,0,0,0,65,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100717,-3.62322,-39.504968
+FAM00718,Ouro,Rua Principal,rural,4,144,36.0,1,0,1,22,Médio completo,Taipa revestida,Rede geral,Fossa séptica,0,NIS100718,-3.623403,-39.511708
+FAM00719,Alto da Colina,Travessa do Sol - Alto da Colina,urbana,2,1211,605.5,0,0,0,56,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100719,-3.623376,-39.503277
+FAM00720,Lajedos,Avenida Central,urbana,3,350,116.67,1,0,0,46,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100720,-3.626641,-39.501785
+FAM00721,Lajedos,Rua da Escola,urbana,2,301,150.5,1,0,0,38,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100721,-3.625514,-39.503761
+FAM00722,Angelim,Rua Francisco Ferreira Fonteneles - Angelim,urbana,4,378,94.5,1,1,1,51,Superior completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100722,-3.621711,-39.500909
+FAM00723,Sítio Pirapora,Rua do Cruzeiro - Sítio Pirapora,rural,5,111,22.2,1,0,0,54,Fundamental completo,Taipa não revestida,Cisterna,Vala a céu aberto,0,NIS100723,-3.621467,-39.505892
+FAM00724,Guaribuna,Rua da Escola - Guaribuna,rural,6,200,33.33,0,0,0,59,Fundamental completo,Palha,Cisterna,Fossa séptica,0,NIS100724,-3.625392,-39.511675
+FAM00725,Açude dos Vianas,Rua São Pedro - Açude dos Vianas,rural,2,479,239.5,0,0,0,38,Fundamental completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100725,-3.62736,-39.501986
+FAM00726,Centro,Rua do Mercado,urbana,6,511,85.17,1,0,0,18,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100726,-3.623079,-39.504957
+FAM00727,Lajedos,Rua 7 de Setembro,urbana,4,150,37.5,0,0,0,47,Médio completo,Alvenaria sem revestimento,Rede geral,Vala a céu aberto,0,NIS100727,-3.626529,-39.504125
+FAM00728,Alto São João,Rua do Estádio - Alto São João,urbana,5,723,144.6,0,0,0,28,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100728,-3.624365,-39.501098
+FAM00729,Angelim,Rua Nossa Senhora - Angelim,urbana,4,841,210.25,1,0,0,34,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100729,-3.623292,-39.500539
+FAM00730,Alto da Colina,Rua São Pedro,urbana,2,112,56.0,0,0,0,23,Fundamental incompleto,Madeira,Poço,Rede coletora,0,NIS100730,-3.626848,-39.5034
+FAM00731,Volta,Rua Nova - Volta,urbana,5,820,164.0,1,0,0,41,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100731,-3.62496,-39.499232
+FAM00732,Santa Maria,Rua Nova - Santa Maria,rural,4,387,96.75,1,0,0,46,Superior completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100732,-3.622031,-39.509492
+FAM00733,Retiro,Rua da Escola,rural,4,123,30.75,0,0,0,50,Fundamental completo,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100733,-3.620216,-39.512395
+FAM00734,Santa Úrsula,Rua Nossa Senhora,rural,6,330,55.0,0,0,0,37,Não sabe ler/escrever,Taipa não revestida,Rede geral,Fossa séptica,0,NIS100734,-3.620711,-39.509373
+FAM00735,Itamaraty,Rua do Cruzeiro - Itamaraty,urbana,4,232,58.0,1,0,0,34,Médio completo,Outra,Poço,Rede coletora,0,NIS100735,-3.619176,-39.499491
+FAM00736,Bela Vista,Rua do Mercado - Bela Vista,urbana,5,173,34.6,1,0,0,33,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100736,-3.621354,-39.502981
+FAM00737,Centro,Rua da Escola,urbana,5,283,56.6,0,0,0,26,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Fossa séptica,1,NIS100737,-3.621263,-39.505699
+FAM00738,Alto São João,Rua Francisco Ferreira Fonteneles,urbana,5,343,68.6,0,0,0,53,Superior completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100738,-3.626397,-39.499792
+FAM00739,Lajedos,Avenida Central - Lajedos,urbana,1,310,310.0,0,0,0,34,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100739,-3.625914,-39.504603
+FAM00740,Serra do Sítio,Rua do Comércio - Serra do Sítio,rural,3,603,201.0,0,0,0,30,Fundamental completo,Palha,Cisterna,Fossa rudimentar,0,NIS100740,-3.620218,-39.505567
+FAM00741,Aguaí,Rua do Mercado - Aguaí,rural,5,1017,203.4,1,0,0,26,Superior incompleto,Taipa não revestida,Cisterna,Fossa séptica,0,NIS100741,-3.62853,-39.503828
+FAM00742,Angelim,Avenida Central - Angelim,urbana,3,571,190.33,0,0,0,45,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100742,-3.624097,-39.503497
+FAM00743,Novo Angelim,Rua do Comércio - Novo Angelim,urbana,5,2373,474.6,0,0,0,18,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100743,-3.62526,-39.504354
+FAM00744,Barreiros,Rua do Comércio,rural,2,1701,850.5,0,0,0,52,Médio completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100744,-3.629664,-39.507059
+FAM00745,Casinhas,Rua do Mercado - Casinhas,urbana,5,927,185.4,0,0,0,29,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100745,-3.627265,-39.500393
+FAM00746,Ferrão,Rua da Igreja,rural,3,295,98.33,0,0,0,30,Fundamental completo,Taipa revestida,Poço,Fossa séptica,0,NIS100746,-3.62475,-39.507544
+FAM00747,Casinhas,Rua do Mercado - Casinhas,urbana,6,245,40.83,0,0,0,57,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100747,-3.627667,-39.499071
+FAM00748,Bom Jesus,Rua do Estádio,rural,3,543,181.0,0,0,0,21,Superior incompleto,Palha,Poço,Fossa séptica,0,NIS100748,-3.62614,-39.506252
+FAM00749,Itamaraty,Rua da Escola,urbana,7,477,68.14,0,0,0,26,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100749,-3.620505,-39.500972
+FAM00750,Sítio Pirapora,Rua José de Alencar - Sítio Pirapora,rural,2,1076,538.0,0,0,0,55,Não sabe ler/escrever,Taipa não revestida,Poço,Vala a céu aberto,0,NIS100750,-3.623125,-39.504873
+FAM00751,Angelim,Rua 7 de Setembro - Angelim,urbana,4,303,75.75,1,0,0,31,Fundamental completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100751,-3.62311,-39.501152
+FAM00752,Volta,Rua Nossa Senhora,urbana,2,379,189.5,0,0,0,40,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100752,-3.623054,-39.500476
+FAM00753,Bela Vista,Rua José de Alencar,urbana,5,3415,683.0,0,0,0,52,Superior incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100753,-3.620829,-39.501226
+FAM00754,Aguaí,Rua do Comércio,rural,2,633,316.5,1,0,0,19,Médio completo,Taipa revestida,Rede geral,Fossa rudimentar,0,NIS100754,-3.626248,-39.504983
+FAM00755,Sítio Oiticica,Rua Nova - Sítio Oiticica,rural,5,2422,484.4,0,0,0,18,Não sabe ler/escrever,Palha,Poço,Vala a céu aberto,0,NIS100755,-3.618525,-39.508162
+FAM00756,Novo Angelim,Rua do Estádio - Novo Angelim,urbana,1,551,551.0,0,0,0,39,Superior completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100756,-3.625225,-39.503667
+FAM00757,Casinhas,Avenida Central - Casinhas,urbana,3,107,35.67,1,0,0,32,Fundamental completo,Madeira,Rede geral,Rede coletora,0,NIS100757,-3.628552,-39.500283
+FAM00758,Aguaí,Rua Nossa Senhora,rural,2,123,61.5,1,0,0,43,Fundamental completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100758,-3.626528,-39.504977
+FAM00759,Novo Angelim,Rua Francisco Ferreira Fonteneles - Novo Angelim,urbana,4,272,68.0,1,0,0,58,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100759,-3.622861,-39.502275
+FAM00760,Angelim,Rua da Igreja - Angelim,urbana,5,611,122.2,0,0,0,61,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100760,-3.62367,-39.501852
+FAM00761,Bela Vista,Rua José de Alencar,urbana,6,1825,304.17,1,0,0,68,Médio completo,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100761,-3.619199,-39.504332
+FAM00762,Volta,Rua do Cruzeiro - Volta,urbana,6,356,59.33,0,0,0,22,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100762,-3.625474,-39.499006
+FAM00763,Serra do Sítio,Rua do Cruzeiro,rural,4,201,50.25,1,0,0,28,Fundamental completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100763,-3.620118,-39.507166
+FAM00764,Bom Jesus,Rua São Pedro - Bom Jesus,rural,4,375,93.75,1,0,1,52,Superior completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100764,-3.628238,-39.507098
+FAM00765,Novo Angelim,Rua do Estádio,urbana,5,370,74.0,0,0,1,44,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100765,-3.624806,-39.503426
+FAM00766,Santa Maria,Avenida Central - Santa Maria,rural,2,390,195.0,1,0,0,29,Superior incompleto,Palha,Cisterna,Fossa rudimentar,0,NIS100766,-3.622283,-39.5087
+FAM00767,Bela Vista,Rua do Cruzeiro,urbana,5,1214,242.8,0,0,0,47,Fundamental completo,Alvenaria com revestimento,Cisterna,Rede coletora,1,NIS100767,-3.621302,-39.503576
+FAM00768,Alto da Colina,Rua José de Alencar - Alto da Colina,urbana,4,723,180.75,0,0,0,69,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100768,-3.622687,-39.504957
+FAM00769,Açude dos Vianas,Rua São Pedro - Açude dos Vianas,rural,6,305,50.83,1,0,0,43,Fundamental completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100769,-3.626261,-39.50427
+FAM00770,Pedra Furada,Avenida Central - Pedra Furada,rural,6,214,35.67,1,0,0,65,Médio completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100770,-3.623882,-39.509708
+FAM00771,Lajedos,Rua Nova,urbana,3,159,53.0,1,0,0,36,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100771,-3.626429,-39.504793
+FAM00772,Bela Vista,Rua do Cruzeiro,urbana,5,151,30.2,1,0,1,63,Superior incompleto,Outra,Rede geral,Rede coletora,0,NIS100772,-3.620215,-39.504816
+FAM00773,Sítio Pirapora,Rua José de Alencar - Sítio Pirapora,rural,5,211,42.2,1,0,0,43,Não sabe ler/escrever,Taipa revestida,Poço,Fossa séptica,0,NIS100773,-3.622127,-39.505733
+FAM00774,Angelim,Rua do Cruzeiro,urbana,7,1924,274.86,1,0,0,52,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100774,-3.620485,-39.500636
+FAM00775,Novo Angelim,Rua Principal - Novo Angelim,urbana,3,439,146.33,0,0,0,34,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100775,-3.62484,-39.501895
+FAM00776,Itamaraty,Rua Francisco Ferreira Fonteneles - Itamaraty,urbana,2,501,250.5,0,0,0,22,Médio completo,Alvenaria com revestimento,Cisterna,Vala a céu aberto,0,NIS100776,-3.619046,-39.500465
+FAM00777,Água Fria,Rua da Escola - Água Fria,rural,3,6804,2268.0,0,0,0,48,Médio completo,Taipa não revestida,Rede geral,Fossa séptica,0,NIS100777,-3.62964,-39.502412
+FAM00778,Alto São João,Rua Principal,urbana,6,201,33.5,1,0,0,18,Superior completo,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100778,-3.625375,-39.502088
+FAM00779,Apertada Hora,Rua Nova - Apertada Hora,rural,5,1273,254.6,0,0,0,55,Fundamental completo,Taipa revestida,Poço,Fossa séptica,0,NIS100779,-3.629581,-39.505456
+FAM00780,Casinhas,Rua do Comércio - Casinhas,urbana,1,836,836.0,0,0,1,31,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100780,-3.627317,-39.500843
+FAM00781,Novo Angelim,Rua José de Alencar,urbana,5,718,143.6,1,0,0,18,Médio completo,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100781,-3.624612,-39.502431
+FAM00782,Volta,Rua do Cruzeiro - Volta,urbana,4,552,138.0,1,0,0,28,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100782,-3.622165,-39.499301
+FAM00783,Serra do Sítio,Rua 7 de Setembro,rural,4,86,21.5,1,0,0,43,Fundamental completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100783,-3.622408,-39.505708
+FAM00784,Casinhas,Travessa do Sol - Casinhas,urbana,5,488,97.6,0,0,0,32,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100784,-3.627254,-39.499074
+FAM00785,Lajedos,Rua 7 de Setembro - Lajedos,urbana,6,457,76.17,1,0,0,39,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100785,-3.625424,-39.502922
+FAM00786,Itamaraty,Rua do Mercado,urbana,1,193,193.0,0,0,0,29,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100786,-3.620639,-39.500048
+FAM00787,Novo Angelim,Rua do Cruzeiro,urbana,4,1113,278.25,0,0,0,44,Superior completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100787,-3.625578,-39.502981
+FAM00788,Apertada Hora,Rua do Estádio - Apertada Hora,rural,2,177,88.5,1,0,1,31,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100788,-3.629381,-39.506828
+FAM00789,Alto São João,Rua São Pedro - Alto São João,urbana,4,446,111.5,1,0,0,43,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100789,-3.624952,-39.501004
+FAM00790,Jenipapo,Rua da Escola - Jenipapo,rural,6,980,163.33,0,0,0,47,Médio completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100790,-3.625701,-39.513224
+FAM00791,Centro,Rua 7 de Setembro,urbana,6,81,13.5,1,0,0,27,Médio completo,Madeira,Poço,Rede coletora,0,NIS100791,-3.621337,-39.503273
+FAM00792,Ferrão,Rua Nova - Ferrão,rural,4,318,79.5,1,0,0,26,Médio completo,Palha,Poço,Fossa rudimentar,0,NIS100792,-3.626737,-39.510036
+FAM00793,Alto São João,Rua José de Alencar - Alto São João,urbana,2,266,133.0,0,0,0,67,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100793,-3.62565,-39.503032
+FAM00794,Belmonte,Rua do Estádio - Belmonte,rural,3,2400,800.0,0,0,0,35,Fundamental incompleto,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100794,-3.629509,-39.508197
+FAM00795,Volta,Rua Principal - Volta,urbana,4,115,28.75,0,0,1,76,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100795,-3.623942,-39.498631
+FAM00796,Volta,Rua da Igreja - Volta,urbana,6,110,18.33,1,0,0,21,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100796,-3.622728,-39.500513
+FAM00797,Volta,Rua Francisco Ferreira Fonteneles - Volta,urbana,6,381,63.5,0,0,0,31,Fundamental completo,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100797,-3.623595,-39.499991
+FAM00798,Guaribuna,Rua da Escola - Guaribuna,rural,4,132,33.0,1,0,0,36,Fundamental completo,Alvenaria com revestimento,Cisterna,Fossa rudimentar,0,NIS100798,-3.626573,-39.512878
+FAM00799,Barreiros,Rua Principal,rural,2,374,187.0,1,0,1,36,Médio completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100799,-3.631469,-39.508157
+FAM00800,Alto São João,Rua Principal - Alto São João,urbana,2,439,219.5,0,0,0,22,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100800,-3.626114,-39.501897
+FAM00801,Alto da Colina,Rua do Cruzeiro,urbana,2,374,187.0,0,0,0,41,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100801,-3.623071,-39.503805
+FAM00802,Lajedos,Rua Francisco Ferreira Fonteneles,urbana,5,744,148.8,1,0,0,50,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100802,-3.624899,-39.502476
+FAM00803,Centro,Rua Nossa Senhora,urbana,4,3148,787.0,0,0,0,61,Superior completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100803,-3.620737,-39.504707
+FAM00804,Volta,Rua Nova - Volta,urbana,6,429,71.5,0,0,0,44,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100804,-3.623369,-39.498214
+FAM00805,Baixa Grande,Rua Nossa Senhora - Baixa Grande,rural,4,472,118.0,1,0,0,62,Não sabe ler/escrever,Palha,Poço,Fossa séptica,0,NIS100805,-3.630988,-39.504808
+FAM00806,Prata dos Galdinos,Rua Nova - Prata dos Galdinos,rural,4,563,140.75,1,0,0,28,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Fossa rudimentar,0,NIS100806,-3.62019,-39.510379
+FAM00807,Bela Vista,Rua do Estádio - Bela Vista,urbana,4,238,59.5,1,0,0,52,Fundamental incompleto,Madeira,Cisterna,Vala a céu aberto,0,NIS100807,-3.621544,-39.502233
+FAM00808,Sítio Oiticica,Rua da Igreja,rural,2,347,173.5,1,0,0,50,Fundamental incompleto,Palha,Cisterna,Fossa rudimentar,0,NIS100808,-3.619429,-39.506941
+FAM00809,Alto da Colina,Rua São Pedro - Alto da Colina,urbana,2,96,48.0,0,0,1,53,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100809,-3.622748,-39.504478
+FAM00810,Barreiros,Rua do Estádio - Barreiros,rural,4,821,205.25,0,0,0,51,Médio completo,Alvenaria com revestimento,Rede geral,Fossa rudimentar,1,NIS100810,-3.630516,-39.507935
+FAM00811,Alto da Colina,Avenida Central - Alto da Colina,urbana,5,590,118.0,0,0,0,37,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100811,-3.622956,-39.503159
+FAM00812,Sítio Oiticica,Rua do Comércio - Sítio Oiticica,rural,3,213,71.0,1,0,0,27,Fundamental incompleto,Palha,Poço,Fossa rudimentar,0,NIS100812,-3.620059,-39.506218
+FAM00813,Lajedos,Rua Francisco Ferreira Fonteneles - Lajedos,urbana,7,1993,284.71,1,0,0,19,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100813,-3.624153,-39.505187
+FAM00814,Bom Jesus,Rua do Estádio,rural,4,288,72.0,1,0,0,47,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100814,-3.626657,-39.5088
+FAM00815,Baixa Grande,Rua do Comércio - Baixa Grande,rural,3,524,174.67,1,0,0,56,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100815,-3.631839,-39.502777
+FAM00816,Pedra Furada,Rua da Escola - Pedra Furada,rural,4,397,99.25,1,0,0,55,Não sabe ler/escrever,Taipa não revestida,Poço,Fossa séptica,0,NIS100816,-3.622818,-39.509345
+FAM00817,Sítio Pau Alto,Rua do Comércio - Sítio Pau Alto,rural,3,1318,439.33,1,0,0,52,Médio completo,Taipa revestida,Rede geral,Fossa séptica,0,NIS100817,-3.61653,-39.506054
+FAM00818,Apertada Hora,Rua do Cruzeiro,rural,4,917,229.25,0,0,0,39,Não sabe ler/escrever,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100818,-3.628269,-39.503806
+FAM00819,Sobradinho,Rua Francisco Ferreira Fonteneles - Sobradinho,rural,2,581,290.5,0,0,0,26,Fundamental incompleto,Taipa revestida,Poço,Vala a céu aberto,0,NIS100819,-3.620926,-39.503724
+FAM00820,Baixa Grande,Rua Francisco Ferreira Fonteneles,rural,4,317,79.25,0,0,0,38,Fundamental incompleto,Taipa revestida,Rede geral,Fossa rudimentar,0,NIS100820,-3.631258,-39.505757
+FAM00821,Ferrão,Rua Nossa Senhora - Ferrão,rural,3,927,309.0,0,0,0,43,Não sabe ler/escrever,Palha,Cisterna,Vala a céu aberto,0,NIS100821,-3.625579,-39.5086
+FAM00822,Sítio Pau Alto,Rua Nova - Sítio Pau Alto,rural,4,400,100.0,1,0,1,39,Médio completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100822,-3.617118,-39.506209
+FAM00823,Lajedos,Avenida Central - Lajedos,urbana,6,1019,169.83,1,0,0,39,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100823,-3.624334,-39.505498
+FAM00824,Centro,Rua do Comércio,urbana,6,408,68.0,1,0,0,46,Médio completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100824,-3.622975,-39.505249
+FAM00825,Angelim,Rua Francisco Ferreira Fonteneles - Angelim,urbana,5,420,84.0,1,0,0,29,Médio completo,Madeira,Rede geral,Rede coletora,0,NIS100825,-3.623489,-39.501391
+FAM00826,Itamaraty,Rua 7 de Setembro - Itamaraty,urbana,2,2001,1000.5,0,0,0,27,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100826,-3.623148,-39.499054
+FAM00827,Jenipapo,Rua da Igreja,rural,7,1262,180.29,0,0,0,33,Fundamental incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100827,-3.625484,-39.51499
+FAM00828,Bela Vista,Rua 7 de Setembro,urbana,7,287,41.0,1,0,0,34,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100828,-3.619622,-39.501854
+FAM00829,Bela Vista,Rua José de Alencar,urbana,5,654,130.8,1,0,0,50,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100829,-3.620352,-39.501662
+FAM00830,Alto São João,Rua Nossa Senhora - Alto São João,urbana,3,178,59.33,1,0,0,23,Não sabe ler/escrever,Outra,Rede geral,Fossa séptica,0,NIS100830,-3.625981,-39.501162
+FAM00831,Ferrão,Rua da Igreja - Ferrão,rural,1,125,125.0,1,0,0,18,Fundamental completo,Palha,Poço,Fossa rudimentar,0,NIS100831,-3.627887,-39.506486
+FAM00832,Lajedos,Rua Principal,urbana,5,254,50.8,0,0,0,35,Fundamental incompleto,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100832,-3.62614,-39.503646
+FAM00833,Alto São João,Rua da Igreja - Alto São João,urbana,3,441,147.0,0,0,0,43,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100833,-3.625448,-39.501785
+FAM00834,Alto da Colina,Rua São Pedro - Alto da Colina,urbana,6,1004,167.33,1,0,0,18,Fundamental completo,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100834,-3.622476,-39.504273
+FAM00835,Água Fria,Rua 7 de Setembro - Água Fria,rural,4,632,158.0,1,0,0,47,Médio completo,Palha,Cisterna,Fossa rudimentar,0,NIS100835,-3.628958,-39.502293
+FAM00836,Casinhas,Rua da Escola - Casinhas,urbana,2,321,160.5,1,0,0,32,Fundamental completo,Alvenaria sem revestimento,Cisterna,Rede coletora,1,NIS100836,-3.626517,-39.500479
+FAM00837,Alto São João,Rua do Cruzeiro,urbana,6,528,88.0,1,0,0,18,Fundamental incompleto,Alvenaria sem revestimento,Poço,Fossa séptica,0,NIS100837,-3.62399,-39.501584
+FAM00838,Açude dos Vianas,Rua Francisco Ferreira Fonteneles,rural,3,438,146.0,1,0,0,30,Médio completo,Taipa não revestida,Cisterna,Fossa séptica,0,NIS100838,-3.630213,-39.502596
+FAM00839,Alto São João,Rua do Estádio - Alto São João,urbana,2,298,149.0,1,0,0,34,Fundamental completo,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100839,-3.626006,-39.500721
+FAM00840,Guaribuna,Travessa do Sol - Guaribuna,rural,3,936,312.0,1,0,0,50,Não sabe ler/escrever,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100840,-3.626688,-39.511246
+FAM00841,Bela Vista,Rua José de Alencar - Bela Vista,urbana,3,2161,720.33,0,0,0,26,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,1,NIS100841,-3.619538,-39.500991
+FAM00842,São João,Rua do Mercado,rural,4,134,33.5,0,0,0,29,Fundamental incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100842,-3.618402,-39.511056
+FAM00843,Alto São João,Rua Principal - Alto São João,urbana,2,155,77.5,1,0,1,37,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100843,-3.624381,-39.501099
+FAM00844,Bela Vista,Avenida Central - Bela Vista,urbana,8,715,89.38,1,0,0,46,Médio completo,Alvenaria sem revestimento,Rede geral,Vala a céu aberto,0,NIS100844,-3.620581,-39.502149
+FAM00845,Lajedos,Rua do Comércio - Lajedos,urbana,5,701,140.2,1,0,1,47,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100845,-3.625856,-39.504341
+FAM00846,Bela Vista,Rua do Comércio,urbana,4,1486,371.5,0,0,0,48,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100846,-3.620662,-39.502197
+FAM00847,Bom Jesus,Rua São Pedro - Bom Jesus,rural,3,974,324.67,0,0,1,55,Não sabe ler/escrever,Taipa não revestida,Poço,Vala a céu aberto,0,NIS100847,-3.627359,-39.506011
+FAM00848,Santa Maria,Rua São Pedro - Santa Maria,rural,3,181,60.33,0,0,0,38,Médio completo,Taipa revestida,Poço,Vala a céu aberto,0,NIS100848,-3.621437,-39.508337
+FAM00849,Casinhas,Rua 7 de Setembro - Casinhas,urbana,2,661,330.5,0,0,0,34,Médio completo,Outra,Poço,Rede coletora,0,NIS100849,-3.6282,-39.499478
+FAM00850,Carrapato,Travessa do Sol,rural,2,374,187.0,0,1,1,56,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa rudimentar,0,NIS100850,-3.629289,-39.512096
+FAM00851,Lajedos,Rua da Igreja,urbana,3,1029,343.0,0,0,0,36,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100851,-3.625376,-39.503577
+FAM00852,Angelim,Rua José de Alencar - Angelim,urbana,1,1224,1224.0,0,0,0,40,Fundamental incompleto,Madeira,Rede geral,Vala a céu aberto,0,NIS100852,-3.626155,-39.502176
+FAM00853,Paraíso,Rua São Pedro - Paraíso,rural,5,484,96.8,0,0,0,21,Fundamental incompleto,Taipa não revestida,Poço,Vala a céu aberto,0,NIS100853,-3.623272,-39.512801
+FAM00854,Jenipapo,Rua Principal - Jenipapo,rural,6,168,28.0,1,0,0,25,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100854,-3.626905,-39.513497
+FAM00855,Sítio Pau Alto,Rua 7 de Setembro,rural,3,475,158.33,0,0,0,18,Fundamental completo,Palha,Poço,Fossa séptica,0,NIS100855,-3.617747,-39.504042
+FAM00856,Bela Vista,Rua do Estádio,urbana,4,339,84.75,1,0,0,54,Fundamental incompleto,Outra,Rede geral,Rede coletora,0,NIS100856,-3.621342,-39.501617
+FAM00857,Santa Maria,Rua do Cruzeiro - Santa Maria,rural,4,610,152.5,0,0,0,36,Superior completo,Palha,Poço,Fossa rudimentar,0,NIS100857,-3.622391,-39.508973
+FAM00858,Casinhas,Rua 7 de Setembro - Casinhas,urbana,5,708,141.6,1,0,0,49,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100858,-3.627488,-39.501284
+FAM00859,Sobradinho,Rua Nova - Sobradinho,rural,6,162,27.0,1,0,0,21,Médio completo,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100859,-3.619151,-39.505107
+FAM00860,Jenipapo,Rua José de Alencar - Jenipapo,rural,3,2181,727.0,0,0,0,31,Fundamental completo,Taipa não revestida,Cisterna,Fossa séptica,0,NIS100860,-3.625977,-39.511819
+FAM00861,Alto da Colina,Travessa do Sol - Alto da Colina,urbana,3,399,133.0,0,0,0,68,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100861,-3.622808,-39.5048
+FAM00862,Volta,Rua do Estádio - Volta,urbana,4,478,119.5,0,0,0,18,Médio completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100862,-3.623833,-39.499415
+FAM00863,Mundaú,Travessa do Sol - Mundaú,rural,5,322,64.4,1,0,0,27,Médio completo,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100863,-3.624875,-39.510337
+FAM00864,Novo Angelim,Rua 7 de Setembro,urbana,8,504,63.0,1,0,0,37,Fundamental completo,Madeira,Rede geral,Rede coletora,0,NIS100864,-3.626226,-39.502907
+FAM00865,Bela Vista,Avenida Central - Bela Vista,urbana,7,1380,197.14,0,0,0,19,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100865,-3.620237,-39.503742
+FAM00866,Novo Angelim,Avenida Central - Novo Angelim,urbana,2,1016,508.0,0,0,0,37,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100866,-3.625109,-39.50402
+FAM00867,Angelim,Avenida Central - Angelim,urbana,4,537,134.25,1,0,1,63,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100867,-3.622467,-39.501617
+FAM00868,Itamaraty,Rua do Cruzeiro - Itamaraty,urbana,6,457,76.17,0,0,0,57,Fundamental completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100868,-3.619993,-39.499673
+FAM00869,Alto São João,Rua Principal,urbana,5,227,45.4,0,0,0,43,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100869,-3.62374,-39.502133
+FAM00870,Aguaí,Rua do Estádio,rural,7,101,14.43,1,0,0,48,Médio completo,Palha,Rede geral,Fossa rudimentar,0,NIS100870,-3.628872,-39.505675
+FAM00871,Bela Vista,Rua Principal - Bela Vista,urbana,3,255,85.0,1,0,0,20,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100871,-3.621287,-39.501062
+FAM00872,Novo Angelim,Rua Principal,urbana,2,174,87.0,0,0,0,32,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100872,-3.623856,-39.502643
+FAM00873,Serra do Sítio,Rua 7 de Setembro - Serra do Sítio,rural,4,498,124.5,1,0,0,57,Médio completo,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100873,-3.622126,-39.505237
+FAM00874,Volta,Rua Nossa Senhora - Volta,urbana,2,97,48.5,1,0,0,23,Médio completo,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100874,-3.624443,-39.496991
+FAM00875,Itamaraty,Rua da Igreja,urbana,4,608,152.0,1,1,0,49,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100875,-3.620309,-39.500775
+FAM00876,Centro,Rua São Pedro - Centro,urbana,5,409,81.8,1,0,0,60,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100876,-3.622393,-39.503391
+FAM00877,Pedra Furada,Rua da Igreja - Pedra Furada,rural,5,1218,243.6,0,0,0,84,Fundamental incompleto,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100877,-3.622528,-39.508708
+FAM00878,Volta,Rua do Cruzeiro,urbana,4,371,92.75,1,0,0,38,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100878,-3.624069,-39.498325
+FAM00879,Bela Vista,Travessa do Sol,urbana,6,683,113.83,0,0,0,57,Fundamental completo,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100879,-3.618986,-39.504316
+FAM00880,Ferrão,Rua do Estádio - Ferrão,rural,3,2217,739.0,0,0,0,72,Fundamental incompleto,Palha,Cisterna,Fossa rudimentar,0,NIS100880,-3.625298,-39.508141
+FAM00881,Santa Úrsula,Rua Nossa Senhora,rural,7,130,18.57,1,0,0,48,Fundamental completo,Palha,Cisterna,Fossa rudimentar,0,NIS100881,-3.620723,-39.50879
+FAM00882,Novo Angelim,Rua do Estádio - Novo Angelim,urbana,3,576,192.0,0,0,0,81,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100882,-3.623772,-39.504369
+FAM00883,Centro,Rua da Escola,urbana,2,378,189.0,0,0,0,44,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100883,-3.620562,-39.504189
+FAM00884,Lajedos,Rua da Escola - Lajedos,urbana,6,1192,198.67,0,0,0,18,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100884,-3.625441,-39.503373
+FAM00885,Volta,Rua Principal,urbana,4,282,70.5,1,0,1,47,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100885,-3.623329,-39.49977
+FAM00886,Lajedos,Rua da Igreja,urbana,7,812,116.0,1,0,1,23,Não sabe ler/escrever,Madeira,Rede geral,Rede coletora,0,NIS100886,-3.626691,-39.504104
+FAM00887,Alto da Colina,Rua do Comércio - Alto da Colina,urbana,5,628,125.6,1,0,0,27,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100887,-3.623615,-39.503737
+FAM00888,Alto São João,Rua Nova - Alto São João,urbana,6,2342,390.33,0,0,0,18,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Vala a céu aberto,0,NIS100888,-3.625154,-39.502116
+FAM00889,Bela Vista,Avenida Central - Bela Vista,urbana,4,163,40.75,0,0,0,48,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,1,NIS100889,-3.621091,-39.502564
+FAM00890,Casinhas,Avenida Central - Casinhas,urbana,3,823,274.33,0,0,0,54,Superior completo,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100890,-3.626032,-39.49943
+FAM00891,Apertada Hora,Rua Nossa Senhora - Apertada Hora,rural,4,179,44.75,1,0,0,53,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100891,-3.627509,-39.504214
+FAM00892,Angelim,Rua São Pedro - Angelim,urbana,5,610,122.0,1,0,1,40,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100892,-3.622449,-39.504293
+FAM00893,Alto da Colina,Rua Nossa Senhora - Alto da Colina,urbana,7,415,59.29,1,0,0,36,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100893,-3.624255,-39.503968
+FAM00894,Novo Angelim,Rua do Estádio - Novo Angelim,urbana,5,308,61.6,1,0,0,47,Fundamental incompleto,Madeira,Rede geral,Fossa séptica,0,NIS100894,-3.624892,-39.504844
+FAM00895,Pedra Furada,Rua Nossa Senhora,rural,8,1244,155.5,1,0,0,35,Médio completo,Taipa revestida,Cisterna,Vala a céu aberto,0,NIS100895,-3.623435,-39.509217
+FAM00896,Sítio Pirapora,Rua São Pedro - Sítio Pirapora,rural,4,783,195.75,0,0,0,34,Fundamental incompleto,Palha,Poço,Fossa rudimentar,0,NIS100896,-3.621949,-39.504981
+FAM00897,Retiro,Rua do Cruzeiro,rural,5,628,125.6,1,1,0,58,Fundamental completo,Palha,Poço,Fossa rudimentar,0,NIS100897,-3.618347,-39.512407
+FAM00898,Casinhas,Rua Francisco Ferreira Fonteneles - Casinhas,urbana,4,154,38.5,0,0,0,60,Superior completo,Madeira,Poço,Vala a céu aberto,0,NIS100898,-3.625802,-39.500353
+FAM00899,Retiro,Rua do Mercado,rural,3,595,198.33,0,0,0,44,Fundamental incompleto,Palha,Poço,Vala a céu aberto,0,NIS100899,-3.61898,-39.511532
+FAM00900,Santa Úrsula,Rua do Estádio - Santa Úrsula,rural,8,229,28.62,1,0,0,49,Não sabe ler/escrever,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100900,-3.619611,-39.510416
+FAM00901,São João,Rua da Escola - São João,rural,7,263,37.57,1,0,1,41,Superior incompleto,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100901,-3.618484,-39.507322
+FAM00902,Centro,Rua do Comércio - Centro,urbana,5,357,71.4,0,0,0,57,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100902,-3.621085,-39.504464
+FAM00903,Angelim,Rua 7 de Setembro - Angelim,urbana,6,445,74.17,1,0,1,41,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100903,-3.62329,-39.501083
+FAM00904,Sítio Oiticica,Rua da Escola - Sítio Oiticica,rural,1,168,168.0,0,0,0,51,Fundamental incompleto,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100904,-3.618051,-39.507079
+FAM00905,Volta,Avenida Central,urbana,4,594,148.5,1,0,0,39,Fundamental incompleto,Madeira,Rede geral,Fossa séptica,0,NIS100905,-3.623765,-39.498735
+FAM00906,Açude dos Vianas,Rua do Comércio,rural,2,334,167.0,1,0,0,18,Fundamental incompleto,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100906,-3.627899,-39.501896
+FAM00907,Sobradinho,Rua do Comércio,rural,4,339,84.75,1,0,0,65,Não sabe ler/escrever,Palha,Poço,Fossa séptica,0,NIS100907,-3.621783,-39.504699
+FAM00908,Lajedos,Rua do Cruzeiro - Lajedos,urbana,4,1125,281.25,1,0,0,18,Fundamental incompleto,Outra,Rede geral,Rede coletora,0,NIS100908,-3.625369,-39.504251
+FAM00909,Novo Angelim,Rua Principal - Novo Angelim,urbana,5,994,198.8,1,0,0,45,Fundamental completo,Alvenaria sem revestimento,Poço,Rede coletora,0,NIS100909,-3.624039,-39.501714
+FAM00910,Baixa Grande,Rua 7 de Setembro - Baixa Grande,rural,4,779,194.75,0,0,0,24,Médio completo,Palha,Cisterna,Vala a céu aberto,0,NIS100910,-3.633245,-39.503779
+FAM00911,Centro,Rua Principal,urbana,4,196,49.0,1,0,0,61,Superior incompleto,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100911,-3.621484,-39.504083
+FAM00912,Casinhas,Rua Nova - Casinhas,urbana,2,277,138.5,1,0,0,18,Fundamental completo,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100912,-3.625257,-39.496944
+FAM00913,Novo Angelim,Travessa do Sol,urbana,6,394,65.67,1,0,0,36,Superior incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100913,-3.623554,-39.502217
+FAM00914,Mundaú,Avenida Central - Mundaú,rural,1,475,475.0,0,0,0,61,Fundamental incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100914,-3.626074,-39.509223
+FAM00915,Bananal,Avenida Central - Bananal,rural,3,534,178.0,1,0,0,19,Fundamental incompleto,Taipa revestida,Poço,Vala a céu aberto,0,NIS100915,-3.625163,-39.506761
+FAM00916,Canto Escuro,Rua 7 de Setembro,rural,7,152,21.71,1,0,0,35,Fundamental completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100916,-3.627288,-39.508058
+FAM00917,Volta,Rua Nossa Senhora - Volta,urbana,2,758,379.0,1,0,0,51,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100917,-3.622861,-39.497539
+FAM00918,Lajedos,Rua São Pedro,urbana,3,1088,362.67,0,0,0,37,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100918,-3.627758,-39.504239
+FAM00919,Aguaí,Rua do Mercado,rural,6,422,70.33,1,0,0,28,Fundamental completo,Alvenaria com revestimento,Cisterna,Fossa rudimentar,0,NIS100919,-3.629167,-39.506189
+FAM00920,Água Fria,Rua do Comércio - Água Fria,rural,3,319,106.33,1,0,0,49,Fundamental incompleto,Taipa revestida,Poço,Fossa séptica,0,NIS100920,-3.630257,-39.503265
+FAM00921,Itamaraty,Rua Nossa Senhora - Itamaraty,urbana,4,1897,474.25,0,0,0,28,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100921,-3.619451,-39.502346
+FAM00922,Retiro,Rua Francisco Ferreira Fonteneles - Retiro,rural,5,998,199.6,0,0,0,52,Médio completo,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100922,-3.61948,-39.513519
+FAM00923,Santa Úrsula,Rua Principal,rural,4,89,22.25,1,0,0,41,Fundamental incompleto,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100923,-3.618569,-39.509689
+FAM00924,Angelim,Rua José de Alencar - Angelim,urbana,5,480,96.0,1,0,0,32,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100924,-3.621973,-39.502419
+FAM00925,Novo Angelim,Rua José de Alencar - Novo Angelim,urbana,4,740,185.0,1,0,1,45,Fundamental completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100925,-3.625325,-39.504934
+FAM00926,Retiro,Rua José de Alencar,rural,5,297,59.4,1,0,1,37,Não sabe ler/escrever,Taipa revestida,Poço,Fossa séptica,0,NIS100926,-3.621263,-39.511366
+FAM00927,Novo Angelim,Rua da Escola - Novo Angelim,urbana,3,893,297.67,0,0,0,45,Fundamental completo,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100927,-3.625162,-39.504587
+FAM00928,Alto da Colina,Rua Nossa Senhora,urbana,5,140,28.0,1,0,0,39,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100928,-3.624463,-39.501499
+FAM00929,Casinhas,Rua Principal - Casinhas,urbana,2,338,169.0,0,0,0,37,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100929,-3.626468,-39.498513
+FAM00930,Volta,Travessa do Sol - Volta,urbana,3,115,38.33,1,0,0,47,Não sabe ler/escrever,Alvenaria sem revestimento,Rede geral,Rede coletora,0,NIS100930,-3.622712,-39.499313
+FAM00931,Bela Vista,Rua da Escola - Bela Vista,urbana,1,2068,2068.0,0,0,0,50,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100931,-3.620853,-39.501655
+FAM00932,Lajedos,Rua José de Alencar - Lajedos,urbana,2,512,256.0,0,0,0,45,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100932,-3.625292,-39.501718
+FAM00933,Casinhas,Rua do Cruzeiro,urbana,2,82,41.0,0,0,0,42,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100933,-3.626549,-39.498802
+FAM00934,Angelim,Rua Francisco Ferreira Fonteneles - Angelim,urbana,5,408,81.6,1,0,0,34,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100934,-3.623063,-39.501418
+FAM00935,Belmonte,Travessa do Sol - Belmonte,rural,3,1519,506.33,0,0,1,46,Médio completo,Alvenaria com revestimento,Rede geral,Fossa rudimentar,0,NIS100935,-3.632035,-39.509893
+FAM00936,Lajedos,Rua Francisco Ferreira Fonteneles - Lajedos,urbana,6,462,77.0,1,0,0,36,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100936,-3.625459,-39.505484
+FAM00937,Centro,Rua Nova,urbana,4,365,91.25,1,0,0,31,Fundamental incompleto,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100937,-3.623401,-39.504121
+FAM00938,Canto Escuro,Rua Nova - Canto Escuro,rural,4,58,14.5,0,0,0,38,Médio completo,Alvenaria com revestimento,Poço,Vala a céu aberto,0,NIS100938,-3.628633,-39.509675
+FAM00939,Sítio Oiticica,Rua do Comércio,rural,6,698,116.33,1,0,0,72,Fundamental incompleto,Alvenaria com revestimento,Poço,Fossa séptica,0,NIS100939,-3.617548,-39.505994
+FAM00940,Sítio Oiticica,Rua da Escola,rural,1,431,431.0,0,0,0,20,Não sabe ler/escrever,Taipa não revestida,Poço,Fossa rudimentar,0,NIS100940,-3.617295,-39.506658
+FAM00941,Angelim,Avenida Central - Angelim,urbana,5,2723,544.6,0,0,0,42,Médio completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100941,-3.621637,-39.502042
+FAM00942,Bela Vista,Rua Francisco Ferreira Fonteneles - Bela Vista,urbana,2,356,178.0,0,0,0,55,Fundamental completo,Madeira,Rede geral,Rede coletora,0,NIS100942,-3.620242,-39.502208
+FAM00943,Alto São João,Rua 7 de Setembro,urbana,4,469,117.25,1,0,1,39,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100943,-3.624785,-39.503127
+FAM00944,Jenipapo,Rua do Comércio,rural,6,299,49.83,0,0,0,31,Não sabe ler/escrever,Palha,Poço,Fossa séptica,0,NIS100944,-3.625124,-39.512913
+FAM00945,Baixa Grande,Travessa do Sol,rural,3,2181,727.0,0,0,0,53,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa rudimentar,0,NIS100945,-3.631437,-39.504979
+FAM00946,Pedra Furada,Rua 7 de Setembro - Pedra Furada,rural,4,365,91.25,1,0,0,26,Fundamental incompleto,Taipa revestida,Rede geral,Vala a céu aberto,0,NIS100946,-3.622597,-39.508236
+FAM00947,Alto da Colina,Rua da Igreja - Alto da Colina,urbana,4,1207,301.75,1,0,0,43,Fundamental completo,Madeira,Rede geral,Fossa séptica,0,NIS100947,-3.620988,-39.504625
+FAM00948,Pedra Furada,Rua do Estádio - Pedra Furada,rural,4,501,125.25,0,0,0,41,Superior completo,Taipa não revestida,Poço,Fossa séptica,0,NIS100948,-3.624865,-39.508605
+FAM00949,Volta,Rua Principal - Volta,urbana,3,469,156.33,0,0,0,40,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100949,-3.62144,-39.500233
+FAM00950,Novo Angelim,Rua do Estádio,urbana,6,827,137.83,1,0,0,18,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100950,-3.623783,-39.503662
+FAM00951,Serra do Sítio,Rua Francisco Ferreira Fonteneles,rural,4,2528,632.0,0,0,0,46,Não sabe ler/escrever,Palha,Cisterna,Fossa séptica,0,NIS100951,-3.621434,-39.506662
+FAM00952,Jenipapo,Rua Francisco Ferreira Fonteneles - Jenipapo,rural,7,490,70.0,0,0,0,28,Fundamental completo,Taipa revestida,Cisterna,Fossa rudimentar,0,NIS100952,-3.625965,-39.515149
+FAM00953,Alto São João,Rua do Mercado,urbana,2,364,182.0,0,0,0,46,Não sabe ler/escrever,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100953,-3.622784,-39.50148
+FAM00954,Bela Vista,Rua do Estádio - Bela Vista,urbana,4,77,19.25,1,1,1,26,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100954,-3.621103,-39.502602
+FAM00955,Volta,Rua São Pedro,urbana,4,162,40.5,0,0,0,47,Médio completo,Outra,Rede geral,Fossa séptica,0,NIS100955,-3.623958,-39.498955
+FAM00956,Novo Angelim,Rua São Pedro - Novo Angelim,urbana,2,139,69.5,1,0,0,54,Médio completo,Alvenaria sem revestimento,Rede geral,Rede coletora,1,NIS100956,-3.625385,-39.503992
+FAM00957,Guaribuna,Rua 7 de Setembro,rural,3,178,59.33,1,0,0,31,Superior incompleto,Taipa não revestida,Cisterna,Fossa rudimentar,0,NIS100957,-3.627162,-39.51136
+FAM00958,Novo Angelim,Rua da Escola - Novo Angelim,urbana,4,256,64.0,0,0,0,33,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100958,-3.62456,-39.503102
+FAM00959,Bela Vista,Travessa do Sol - Bela Vista,urbana,5,1621,324.2,0,1,0,52,Superior incompleto,Alvenaria com revestimento,Cisterna,Rede coletora,0,NIS100959,-3.619887,-39.501981
+FAM00960,Centro,Avenida Central - Centro,urbana,3,511,170.33,0,0,0,37,Fundamental incompleto,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100960,-3.620812,-39.505057
+FAM00961,Itamaraty,Rua Nossa Senhora - Itamaraty,urbana,6,459,76.5,0,0,0,41,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100961,-3.620265,-39.501872
+FAM00962,Lajedos,Rua José de Alencar,urbana,2,880,440.0,1,0,0,75,Fundamental completo,Madeira,Rede geral,Rede coletora,0,NIS100962,-3.626914,-39.50342
+FAM00963,Volta,Rua Principal - Volta,urbana,4,542,135.5,1,0,0,50,Médio completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100963,-3.622279,-39.500761
+FAM00964,Jenipapo,Rua do Estádio,rural,4,722,180.5,0,0,0,40,Fundamental completo,Palha,Poço,Fossa séptica,0,NIS100964,-3.625509,-39.514642
+FAM00965,Bela Vista,Rua Nova - Bela Vista,urbana,3,1088,362.67,0,0,0,50,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100965,-3.620236,-39.503678
+FAM00966,Novo Angelim,Rua São Pedro,urbana,5,1344,268.8,0,0,0,37,Fundamental incompleto,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100966,-3.623845,-39.504272
+FAM00967,Novo Angelim,Rua da Igreja - Novo Angelim,urbana,4,795,198.75,1,0,0,31,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100967,-3.62307,-39.505698
+FAM00968,Bela Vista,Travessa do Sol,urbana,1,83,83.0,1,0,1,25,Fundamental completo,Outra,Rede geral,Vala a céu aberto,0,NIS100968,-3.620863,-39.503712
+FAM00969,Angelim,Rua 7 de Setembro - Angelim,urbana,3,362,120.67,1,0,0,51,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100969,-3.622993,-39.500573
+FAM00970,Carrapato,Rua Nova - Carrapato,rural,6,176,29.33,1,0,0,81,Superior incompleto,Palha,Poço,Fossa rudimentar,0,NIS100970,-3.627267,-39.512009
+FAM00971,Volta,Rua Nossa Senhora,urbana,5,133,26.6,0,0,0,56,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100971,-3.623131,-39.497857
+FAM00972,Bananal,Rua Principal - Bananal,rural,8,487,60.88,1,0,0,32,Fundamental incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100972,-3.626755,-39.50514
+FAM00973,Casinhas,Rua do Cruzeiro,urbana,5,1136,227.2,1,0,0,42,Superior incompleto,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100973,-3.626121,-39.499429
+FAM00974,Bela Vista,Rua da Igreja - Bela Vista,urbana,5,2981,596.2,0,0,1,49,Médio completo,Alvenaria com revestimento,Poço,Rede coletora,0,NIS100974,-3.621518,-39.500882
+FAM00975,Paraíso,Rua Nova - Paraíso,rural,2,1840,920.0,0,0,0,60,Médio completo,Taipa não revestida,Cisterna,Fossa séptica,0,NIS100975,-3.622617,-39.514655
+FAM00976,Volta,Avenida Central - Volta,urbana,3,536,178.67,0,0,0,33,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100976,-3.620733,-39.500041
+FAM00977,Itamaraty,Rua Nova,urbana,4,264,66.0,1,0,0,35,Fundamental completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100977,-3.621533,-39.499718
+FAM00978,Apertada Hora,Rua do Comércio - Apertada Hora,rural,4,210,52.5,1,0,0,36,Fundamental incompleto,Taipa revestida,Poço,Fossa rudimentar,1,NIS100978,-3.629494,-39.50418
+FAM00979,Bom Jesus,Rua Nova,rural,3,701,233.67,0,0,0,27,Superior incompleto,Palha,Poço,Fossa séptica,0,NIS100979,-3.62845,-39.506577
+FAM00980,Itamaraty,Rua São Pedro - Itamaraty,urbana,7,259,37.0,1,0,0,45,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100980,-3.620787,-39.50015
+FAM00981,Baixa Grande,Rua Nossa Senhora,rural,5,3192,638.4,0,0,0,38,Não sabe ler/escrever,Alvenaria com revestimento,Poço,Fossa rudimentar,0,NIS100981,-3.631516,-39.502569
+FAM00982,Sítio Oiticica,Rua do Cruzeiro - Sítio Oiticica,rural,4,432,108.0,0,0,0,45,Fundamental incompleto,Taipa revestida,Poço,Fossa rudimentar,0,NIS100982,-3.619057,-39.505094
+FAM00983,Bela Vista,Rua do Comércio - Bela Vista,urbana,3,1163,387.67,0,0,0,47,Superior incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100983,-3.620585,-39.504329
+FAM00984,Sítio Oiticica,Rua do Cruzeiro - Sítio Oiticica,rural,5,765,153.0,0,0,0,34,Fundamental completo,Taipa revestida,Poço,Fossa séptica,0,NIS100984,-3.619109,-39.507867
+FAM00985,Ouro,Rua José de Alencar - Ouro,rural,4,1001,250.25,0,0,0,30,Fundamental completo,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100985,-3.625703,-39.51216
+FAM00986,Lajedos,Rua Nossa Senhora - Lajedos,urbana,2,13,6.5,1,0,0,26,Fundamental completo,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100986,-3.626686,-39.504247
+FAM00987,Lajedos,Rua José de Alencar - Lajedos,urbana,1,536,536.0,0,0,0,54,Médio completo,Alvenaria sem revestimento,Poço,Fossa séptica,0,NIS100987,-3.624621,-39.502699
+FAM00988,Santa Úrsula,Rua do Mercado - Santa Úrsula,rural,4,509,127.25,1,0,0,31,Médio completo,Taipa revestida,Poço,Fossa rudimentar,0,NIS100988,-3.619783,-39.509869
+FAM00989,Lajedos,Rua do Cruzeiro - Lajedos,urbana,4,776,194.0,0,0,0,52,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100989,-3.624338,-39.502749
+FAM00990,Santa Maria,Rua São Pedro,rural,3,1030,343.33,1,0,0,38,Não sabe ler/escrever,Palha,Rede geral,Fossa séptica,0,NIS100990,-3.623779,-39.508844
+FAM00991,Volta,Rua do Estádio - Volta,urbana,3,1376,458.67,0,0,1,48,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100991,-3.623554,-39.500293
+FAM00992,Volta,Rua do Comércio - Volta,urbana,4,840,210.0,1,0,0,52,Fundamental completo,Alvenaria com revestimento,Rede geral,Vala a céu aberto,0,NIS100992,-3.622409,-39.498171
+FAM00993,Alto São João,Rua Principal - Alto São João,urbana,7,337,48.14,1,0,0,51,Fundamental incompleto,Alvenaria com revestimento,Rede geral,Fossa séptica,0,NIS100993,-3.625156,-39.501142
+FAM00994,Ouro,Rua José de Alencar - Ouro,rural,1,35,35.0,0,0,0,32,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Fossa séptica,0,NIS100994,-3.624495,-39.51213
+FAM00995,Angelim,Rua Nossa Senhora,urbana,4,219,54.75,1,0,0,35,Não sabe ler/escrever,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100995,-3.623182,-39.503838
+FAM00996,Angelim,Rua São Pedro - Angelim,urbana,6,680,113.33,1,0,0,40,Fundamental incompleto,Alvenaria com revestimento,Cisterna,Vala a céu aberto,0,NIS100996,-3.621454,-39.501026
+FAM00997,Água Fria,Avenida Central,rural,5,679,135.8,0,0,0,69,Fundamental incompleto,Palha,Poço,Fossa rudimentar,0,NIS100997,-3.62924,-39.502138
+FAM00998,Casinhas,Rua Principal,urbana,5,716,143.2,0,0,0,40,Médio completo,Alvenaria com revestimento,Rede geral,Rede coletora,0,NIS100998,-3.627705,-39.499785
+FAM00999,Angelim,Rua José de Alencar - Angelim,urbana,4,1544,386.0,0,0,0,56,Fundamental incompleto,Alvenaria sem revestimento,Rede geral,Fossa séptica,0,NIS100999,-3.62267,-39.501256
+FAM01000,Mundaú,Rua Francisco Ferreira Fonteneles,rural,4,360,90.0,1,0,0,32,Superior completo,Taipa revestida,Poço,Fossa séptica,1,NIS101000,-3.625225,-39.508329
