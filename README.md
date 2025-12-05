@@ -36,7 +36,6 @@ uruburetama-analytics/
 │       ├── schema.sql      # Definição das tabelas (DDL)
 │       └── analysis_queries.sql # Consultas de negócio
 ├── docs/
-│   ├── powerbi_guide.md    # Guia passo-a-passo para o Dashboard
 │   └── data_dictionary.md  # Dicionário de dados
 ├── requirements.txt        # Dependências do projeto
 └── README.md               # Documentação principal
@@ -99,3 +98,4 @@ Execute os scripts na ordem para processar os dados e popular o banco:
 ## 👤 Autor
 
 Projeto desenvolvido como parte de portfólio profissional de Análise de Dados.
+
